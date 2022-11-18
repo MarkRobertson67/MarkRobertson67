@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkRobertson67
 - 👀 I’m interested in coding financial solutions in FinTech
 - 🌱 I’m currently learning to be a FSW Developer and then learn Python
-- 💞️ I’m looking to collaborate on anythingb fun
+- 💞️ I’m looking to collaborate on anything fun
 - 📫 How to reach me: 
 - email: <markrobertson67@gmail.com>
 - LinkedIn: www.linkedin.com/in/mark-robertson-NY-UK
