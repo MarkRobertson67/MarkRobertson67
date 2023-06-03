@@ -1,5 +1,5 @@
 
-## 👋 Hi, I'm @MarkRobertson67
+## 👋 Hi, I'm Mark Robertson
 
 👀 I'm interested in coding financial solutions in FinTech and Web Apps.
 
