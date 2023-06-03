@@ -6,7 +6,7 @@
 - email: <markrobertson67@gmail.com>
 - LinkedIn: www.linkedin.com/in/mark-robertson-NY-UK
 - codewars: [![Codewars Badge](https://www.codewars.com/users/Goldsuccess167/badges/large)](https://www.codewars.com/users/Goldsuccess167)
-
+- leetcode: [![Leetcode Badge](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)]([https://www.codewars.com/users/Goldsuccess167](https://leetcode.com/Goldsuccess167/))
 
 <!---
 MarkRobertson67/MarkRobertson67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
