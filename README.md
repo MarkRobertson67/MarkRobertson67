@@ -1,5 +1,5 @@
 
-## 👋 Hi, I'm Mark Robertson
+## 👋 Hi, I'm Mark Robertson 🇺🇸🇬🇧
 
 👀 I'm interested in coding financial solutions in FinTech and Web Apps.
 
@@ -50,10 +50,11 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
 </div>
 
+---
 
-<!---
-MarkRobertson67/MarkRobertson67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Mark’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRobertson67&show_icons=true&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRobertson67&layout=donut&show_icons=true&theme=blue-green)
+</p>
+
 
 
