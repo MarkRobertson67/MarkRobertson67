@@ -65,9 +65,10 @@
 
   <!-- 2. Front-end frameworks & styling -->
   <!-- React (white logo-only badge) -->
+  
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://img.shields.io/badge/-?style=flat-square&logo=react&logoColor=white&logoOnly=true"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="React" title="React"
       width="40" height="40"
     />
