@@ -32,25 +32,176 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
-[![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/) 
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/) 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) 
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/) 
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/) 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) 
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/) 
-[![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/) 
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://slack.com/) 
-[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/) 
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
-[![Hebrew](https://img.shields.io/badge/Language-Hebrew-0038A8?style=flat-square)](#) 
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+### :hammer_and_wrench: Languages and Tools :
+
+<div align="left">
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+      alt="PostgreSQL" title="PostgreSQL"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- Express.js -->
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+      alt="Express.js" title="Express.js"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      alt="React" title="React"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+      alt="Node.js" title="Node.js"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- Sass -->
+  <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="Sass" title="Sass"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- CSS3 -->
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+      alt="CSS3" title="CSS3"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+      alt="HTML5" title="HTML5"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- JavaScript -->
+  <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="JavaScript" title="JavaScript"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+      alt="Git" title="Git"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
+      alt="Bootstrap" title="Bootstrap"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- CodePen -->
+  <a href="https://codepen.io/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original.svg"
+      alt="CodePen" title="CodePen"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+      alt="GitHub" title="GitHub"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- npm -->
+  <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original.svg"
+      alt="npm" title="npm"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- Slack -->
+  <a href="https://slack.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"
+      alt="Slack" title="Slack"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- VSCode -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+      alt="VSCode" title="VSCode"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="Java" title="Java"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+      alt="Tailwind CSS" title="Tailwind CSS"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+  <!-- Hebrew -->
+  <span title="Hebrew" style="font-size:32px;vertical-align:middle;">🇮🇱</span>&nbsp;
+
+  <!-- IntelliJ IDEA -->
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"
+      alt="IntelliJ IDEA" title="IntelliJ IDEA"
+      width="40" height="40"
+    />
+  </a>&nbsp;
+
+</div>
 
 
 ---
