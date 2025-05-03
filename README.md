@@ -51,7 +51,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
          alt="Java" title="Java" width="40" height="40"/>
   </a>&nbsp;
-  <span title="Hebrew" style="font-size:32px;vertical-align:middle;">🇮🇱</span>&nbsp;
 
   <!-- 2. Front-end frameworks & CSS tools -->
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
@@ -76,8 +75,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
          alt="Node.js" title="Node.js" width="40" height="40"/>
   </a>&nbsp;
+  <!-- Express.js – logo-only white badge -->
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+    <img src="https://img.shields.io/badge/-?style=flat-square&logo=express&logoColor=white&logoOnly=true"
          alt="Express.js" title="Express.js" width="40" height="40"/>
   </a>&nbsp;
 
@@ -92,18 +92,21 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
          alt="Git" title="Git" width="40" height="40"/>
   </a>&nbsp;
+  <!-- GitHub white mark -->
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png"
          alt="GitHub" title="GitHub" width="40" height="40"/>
   </a>&nbsp;
+  <!-- npm -->
   <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original.svg"
          alt="npm" title="npm" width="40" height="40"/>
   </a>&nbsp;
 
   <!-- 6. Community & editors -->
+  <!-- CodePen – logo-only white badge -->
   <a href="https://codepen.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original.svg"
+    <img src="https://img.shields.io/badge/-?style=flat-square&logo=codepen&logoColor=white&logoOnly=true"
          alt="CodePen" title="CodePen" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://slack.com/" target="_blank" rel="noopener noreferrer">
