@@ -33,56 +33,39 @@
 ### 🛠 Languages and Tools :
 
 <div align="left">
-
   <!-- 1. Core languages -->
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=html5&logoOnly=true"
-       alt="HTML5" width="24" height="24">&nbsp;
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=css3&logoOnly=true"
-       alt="CSS3" width="24" height="24">&nbsp;
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=javascript&logoOnly=true"
-       alt="JavaScript" width="24" height="24">&nbsp;
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=java&logoOnly=true"
-       alt="Java" width="24" height="24">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"   alt="HTML5"        title="HTML5"        width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"     alt="CSS3"         title="CSS3"         width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"   title="JavaScript"   width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"     alt="Java"         title="Java"         width="40" height="40" />&nbsp;
 
   <!-- 2. Front-end frameworks & styling -->
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=react&logoOnly=true"
-       alt="React" width="24" height="24">&nbsp;
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=sass&logoOnly=true"
-       alt="Sass" width="24" height="24">&nbsp;
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=bootstrap&logoOnly=true"
-       alt="Bootstrap" width="24" height="24">&nbsp;
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=tailwindcss&logoOnly=true"
-       alt="Tailwind CSS" width="24" height="24">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"     alt="React"        title="React"        width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"               alt="Sass"         title="Sass"         width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"     alt="Bootstrap"    title="Bootstrap"    width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+       alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />&nbsp;
 
   <!-- 3. Back-end runtime & framework -->
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=node.js&logoOnly=true"
-       alt="Node.js" width="24" height="24">&nbsp;
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=express&logoOnly=true"
-       alt="Express.js" width="24" height="24">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"   alt="Node.js"      title="Node.js"      width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js"   title="Express.js"   width="40" height="40" />&nbsp;
 
   <!-- 4. Database -->
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=postgresql&logoOnly=true"
-       alt="PostgreSQL" width="24" height="24">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+       alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />&nbsp;
 
-  <!-- 5. Version control & package managers -->
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=git&logoOnly=true"
-       alt="Git" width="24" height="24">&nbsp;
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=github&logoOnly=true"
-       alt="GitHub" width="24" height="24">&nbsp;
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=npm&logoOnly=true"
-       alt="npm" width="24" height="24">&nbsp;
+  <!-- 5. VCS & package managers -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"         alt="Git"          title="Git"          width="40" height="40" />&nbsp;
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png"          alt="GitHub"       title="GitHub"       width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"         alt="npm"          title="npm"          width="40" height="40" />&nbsp;
 
   <!-- 6. Community & editors -->
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=codepen&logoOnly=true"
-       alt="CodePen" width="24" height="24">&nbsp;
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=slack&logoOnly=true"
-       alt="Slack" width="24" height="24">&nbsp;
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=visual-studio-code&logoOnly=true"
-       alt="VSCode" width="24" height="24">&nbsp;
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=intellij-idea&logoOnly=true"
-       alt="IntelliJ IDEA" width="24" height="24">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" alt="CodePen"      title="CodePen"      width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg"     alt="Slack"        title="Slack"        width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"   alt="VSCode"       title="VSCode"       width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg"
+       alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40" height="40" />
 </div>
-
 
 
 ---
