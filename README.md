@@ -32,166 +32,25 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
-<div dir="auto">
-
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="PostgreSQL" title="PostgreSQL"
-      width="40" height="40"
-    />
-  </a>&nbsp;
-
-  <!-- Express.js (white bg) -->
-  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="Express.js" title="Express.js"
-      width="40" height="40"
-      style="background-color:white;border-radius:4px;padding:4px;"
-    />
-  </a>&nbsp;
-
-  <!-- React (white bg) -->
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="React" title="React"
-      width="40" height="40"
-      style="background-color:white;border-radius:4px;padding:4px;"
-    />
-  </a>&nbsp;
-
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="Node.js" title="Node.js"
-      width="40" height="40"
-    />
-  </a>&nbsp;
-
-  <!-- SASS -->
-  <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="SASS" title="SASS"
-      width="40" height="40"
-    />
-  </a>&nbsp;
-
-  <!-- CSS3 -->
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"
-      alt="CSS3" title="CSS3"
-      width="40" height="40"
-    />
-  </a>&nbsp;
-
-  <!-- HTML5 -->
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-      alt="HTML5" title="HTML5"
-      width="40" height="40"
-    />
-  </a>&nbsp;
-
-  <!-- JavaScript -->
-  <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="JavaScript" title="JavaScript"
-      width="40" height="40"
-    />
-  </a>&nbsp;
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
-      alt="Git" title="Git"
-      width="40" height="40"
-    />
-  </a>&nbsp;
-
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
-      alt="Bootstrap" title="Bootstrap"
-      width="40" height="40"
-    />
-  </a>&nbsp;
-
-  <!-- CodePen (white bg) -->
-  <a href="https://codepen.io/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/CodePen-%23121011?style=for-the-badge&logo=codepen&logoColor=white"
-      alt="CodePen" title="CodePen"
-      width="40" height="40"
-    />
-  </a>&nbsp;
-
-  <!-- GitHub (white icon for dark mode) -->
-<a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png"
-    alt="GitHub" title="GitHub"
-    width="40" height="40"
-    style="max-width:100%;"
-  />
-</a>&nbsp;
-
-  <!-- npm -->
-  <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
-      alt="npm" title="npm"
-      width="40" height="40"
-    />
-  </a>&nbsp;
-
-  <!-- Slack -->
-  <a href="https://slack.com/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"
-      alt="Slack" title="Slack"
-      width="40" height="40"
-    />
-  </a>&nbsp;
-
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
-      alt="VSCode" title="VSCode"
-      width="40" height="40"
-    />
-  </a>&nbsp;
-
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
-      alt="Java" title="Java"
-      width="40" height="40"
-    />
-  </a>&nbsp;
-<!-- Tailwind CSS -->
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)&nbsp;
-
-  <!-- Hebrew Language -->
-  [![Hebrew](https://img.shields.io/badge/Language-Hebrew-0038A8?style=for-the-badge)](#)&nbsp;
-
-  <!-- IntelliJ IDEA -->
-  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)&nbsp;
-
-  
-</div>
-
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+[![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)  
+[![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)  
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/)  
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
+[![Hebrew](https://img.shields.io/badge/Language-Hebrew-0038A8?style=for-the-badge)](#)  
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
 
 ---
