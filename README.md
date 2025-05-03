@@ -30,96 +30,49 @@
 - Leetcode: [![Leetcode Badge](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)](https://leetcode.com/Goldsuccess167/) -->
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### 🛠 Languages and Tools :
 
-<div align="left">
+<p align="left">
 
   <!-- 1. Core languages -->
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-         alt="HTML5" title="HTML5" width="40" height="40">
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-         alt="CSS3" title="CSS3" width="40" height="40">
-  </a>&nbsp;
-  <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-         alt="JavaScript" title="JavaScript" width="40" height="40">
-  </a>&nbsp;
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-         alt="Java" title="Java" width="40" height="40">
-  </a>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"   alt="HTML5"        title="HTML5"        width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"     alt="CSS3"         title="CSS3"         width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"   title="JavaScript"   width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"     alt="Java"         title="Java"         width="40" height="40" />&nbsp;
 
-  <!-- 2. Front-end & styling -->
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-         alt="React" title="React" width="40" height="40">
-  </a>&nbsp;
-  <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-         alt="Sass" title="Sass" width="40" height="40">
-  </a>&nbsp;
-  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
-         alt="Bootstrap" title="Bootstrap" width="40" height="40">
-  </a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
-         alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40">
-  </a>&nbsp;
+  <!-- 2. Front-end frameworks & CSS tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"   alt="React"        title="React"        width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"               alt="Sass"         title="Sass"         width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"     alt="Bootstrap"    title="Bootstrap"    width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+       alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />&nbsp;
 
-  <!-- 3. Back-end -->
-  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-         alt="Node.js" title="Node.js" width="40" height="40">
-  </a>&nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-         alt="Express.js" title="Express.js" width="40" height="40">
-  </a>&nbsp;
+  <!-- 3. Back-end runtime & framework -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"   alt="Node.js"      title="Node.js"      width="40" height="40" />&nbsp;
+  <!-- Express.js logo-only badge -->
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=express&logoColor=white&logoOnly=true"
+       alt="Express.js" title="Express.js" width="40" height="40" />&nbsp;
 
   <!-- 4. Database -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-         alt="PostgreSQL" title="PostgreSQL" width="40" height="40">
-  </a>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+       alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />&nbsp;
 
-  <!-- 5. VCS & packages -->
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
-         alt="Git" title="Git" width="40" height="40">
-  </a>&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png"
-         alt="GitHub" title="GitHub" width="40" height="40">
-  </a>&nbsp;
-  <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
-         alt="npm" title="npm" width="40" height="40">
-  </a>&nbsp;
+  <!-- 5. Version control & package managers -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"       alt="Git"          title="Git"          width="40" height="40" />&nbsp;
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png"               alt="GitHub"       title="GitHub"       width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"     alt="npm"          title="npm"          width="40" height="40" />&nbsp;
 
   <!-- 6. Community & editors -->
-  <a href="https://codepen.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg"
-         alt="CodePen" title="CodePen" width="40" height="40">
-  </a>&nbsp;
-  <a href="https://slack.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg"
-         alt="Slack" title="Slack" width="40" height="40">
-  </a>&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
-         alt="VSCode" title="VSCode" width="40" height="40">
-  </a>&nbsp;
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg"
-         alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40" height="40">
-  </a>
+  <!-- CodePen logo-only badge -->
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=codepen&logoColor=white&logoOnly=true"
+       alt="CodePen" title="CodePen" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"         alt="Slack"        title="Slack"        width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
+       alt="VSCode"       title="VSCode"       width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg"
+       alt="IntelliJ IDEA"title="IntelliJ IDEA"width="40" height="40" />
 
-</div>
-
+</p>
 
 
 ---
