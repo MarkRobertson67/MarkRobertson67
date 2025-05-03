@@ -33,29 +33,34 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div dir="auto">
+
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="PostgreSQL" title="PostgreSQL"
-      width="40" height="40" />
+      width="40" height="40"
+    />
   </a>&nbsp;
 
-  <!-- Express.js (was invisible) -->
+  <!-- Express.js (white bg) -->
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="Express.js" title="Express.js"
       width="40" height="40"
-      style="background-color:white;border-radius:4px;padding:4px;" />
+      style="background-color:white;border-radius:4px;padding:4px;"
+    />
   </a>&nbsp;
 
-  <!-- React -->
+  <!-- React (white bg) -->
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="React" title="React"
-      width="40" height="40" />
+      width="40" height="40"
+      style="background-color:white;border-radius:4px;padding:4px;"
+    />
   </a>&nbsp;
 
   <!-- Node.js -->
@@ -63,7 +68,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="Node.js" title="Node.js"
-      width="40" height="40" />
+      width="40" height="40"
+    />
   </a>&nbsp;
 
   <!-- SASS -->
@@ -71,7 +77,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
       alt="SASS" title="SASS"
-      width="40" height="40" />
+      width="40" height="40"
+    />
   </a>&nbsp;
 
   <!-- CSS3 -->
@@ -79,7 +86,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"
       alt="CSS3" title="CSS3"
-      width="40" height="40" />
+      width="40" height="40"
+    />
   </a>&nbsp;
 
   <!-- HTML5 -->
@@ -87,7 +95,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
       alt="HTML5" title="HTML5"
-      width="40" height="40" />
+      width="40" height="40"
+    />
   </a>&nbsp;
 
   <!-- JavaScript -->
@@ -95,7 +104,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="JavaScript" title="JavaScript"
-      width="40" height="40" />
+      width="40" height="40"
+    />
   </a>&nbsp;
 
   <!-- Git -->
@@ -103,7 +113,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
       alt="Git" title="Git"
-      width="40" height="40" />
+      width="40" height="40"
+    />
   </a>&nbsp;
 
   <!-- Bootstrap -->
@@ -111,25 +122,28 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
       alt="Bootstrap" title="Bootstrap"
-      width="40" height="40" />
+      width="40" height="40"
+    />
   </a>&nbsp;
 
-  <!-- CodePen (was invisible) -->
+  <!-- CodePen (white bg) -->
   <a href="https://codepen.io/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg"
       alt="CodePen" title="CodePen"
       width="40" height="40"
-      style="background-color:white;border-radius:4px;padding:4px;" />
+      style="background-color:white;border-radius:4px;padding:4px;"
+    />
   </a>&nbsp;
 
-  <!-- GitHub (was invisible) -->
+  <!-- GitHub (white bg) -->
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
       alt="GitHub" title="GitHub"
       width="40" height="40"
-      style="background-color:white;border-radius:4px;padding:4px;" />
+      style="background-color:white;border-radius:4px;padding:4px;"
+    />
   </a>&nbsp;
 
   <!-- npm -->
@@ -137,7 +151,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
       alt="npm" title="npm"
-      width="40" height="40" />
+      width="40" height="40"
+    />
   </a>&nbsp;
 
   <!-- Slack -->
@@ -145,15 +160,17 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"
       alt="Slack" title="Slack"
-      width="40" height="40" />
+      width="40" height="40"
+    />
   </a>&nbsp;
 
-  <!-- VSCode -->
+  <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
       alt="VSCode" title="VSCode"
-      width="40" height="40" />
+      width="40" height="40"
+    />
   </a>&nbsp;
 
   <!-- Java -->
@@ -161,8 +178,10 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
       alt="Java" title="Java"
-      width="40" height="40" />
+      width="40" height="40"
+    />
   </a>&nbsp;
+
 </div>
 
 
