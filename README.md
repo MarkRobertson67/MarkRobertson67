@@ -180,7 +180,16 @@
       width="40" height="40"
     />
   </a>&nbsp;
+<!-- Tailwind CSS -->
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)&nbsp;
 
+  <!-- Hebrew Language -->
+  [![Hebrew](https://img.shields.io/badge/Language-Hebrew-0038A8?style=for-the-badge)](#)&nbsp;
+
+  <!-- IntelliJ IDEA -->
+  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)&nbsp;
+
+  
 </div>
 
 
