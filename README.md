@@ -129,7 +129,7 @@
   </a>&nbsp;
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png"
+      src="[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQRdhYjGRBRadNoiJfrD3r9oK8oIMqVBuLI-xAwf-XMjd_qx4ra7c8hj7ArtGdZiZN0A&usqp=CAU)"
       alt="GitHub" title="GitHub"
       width="40" height="40"
     />
@@ -166,7 +166,7 @@
   </a>&nbsp;
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg"
+      src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg)"
       alt="IntelliJ IDEA" title="IntelliJ IDEA"
       width="40" height="40"
     />
