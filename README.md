@@ -32,35 +32,61 @@
 ---
 ### 🛠 Languages and Tools :
 
-<!-- 1. Core languages -->
-[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://www.javascript.com/)  
-[![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg)](https://www.java.com/)  
+<div align="left">
+  <!-- 1. Core languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
+       alt="HTML5" title="HTML5" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
+       alt="CSS3" title="CSS3" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+       alt="JavaScript" title="JavaScript" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
+       alt="Java" title="Java" width="40" height="40" />&nbsp;
 
-<!-- 2. Front-end frameworks & styling tools -->
-[![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg)](https://reactjs.org/)  
-[![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)](https://sass-lang.com/)  
-[![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)](https://developer.mozilla.org/docs/Web/HTML)  
-[![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)](https://developer.mozilla.org/docs/Web/CSS)  
-[![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)](https://getbootstrap.com/)  
-[![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg)](https://tailwindcss.com/)  
+  <!-- 2. Front-end frameworks & styling -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+       alt="React" title="React" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+       alt="Sass" title="Sass" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+       alt="Bootstrap" title="Bootstrap" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+       alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />&nbsp;
 
-<!-- 3. Back-end runtime & framework -->
-[![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org/)  
-[![Express.js](https://img.shields.io/badge/-?style=flat-square&logo=express&logoColor=white&logoOnly=true)](https://expressjs.com/)  
+  <!-- 3. Back-end runtime & framework -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
+       alt="Node.js" title="Node.js" width="40" height="40" />&nbsp;
+  <!-- Express.js (invert to white) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+       alt="Express.js" title="Express.js"
+       width="40" height="40"
+       style="filter: invert(1);" />&nbsp;
 
-<!-- 4. Database -->
-[![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org/)  
+  <!-- 4. Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+       alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />&nbsp;
 
-<!-- 5. Version control & package managers -->
-[![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg)](https://git-scm.com/)  
-[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png)](https://github.com/)  
-[![npm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg)](https://www.npmjs.com/)  
+  <!-- 5. Version control & package managers -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
+       alt="Git" title="Git" width="40" height="40" />&nbsp;
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png"
+       alt="GitHub" title="GitHub" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+       alt="npm" title="npm" width="40" height="40" />&nbsp;
 
-<!-- 6. Community & editors -->
-[![CodePen](https://img.shields.io/badge/-?style=flat-square&logo=codepen&logoColor=white&logoOnly=true)](https://codepen.io/)  
-[![Slack](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg)](https://slack.com/)  
-[![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg)](https://code.visualstudio.com/)  
-[![IntelliJ IDEA](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg)](https://www.jetbrains.com/idea/)
+  <!-- 6. Community & editors -->
+  <!-- CodePen (invert to white) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg"
+       alt="CodePen" title="CodePen"
+       width="40" height="40"
+       style="filter: invert(1);" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"
+       alt="Slack" title="Slack" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"
+       alt="VSCode" title="VSCode" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg"
+       alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40" height="40" />
+</div>
 
 
 ---
