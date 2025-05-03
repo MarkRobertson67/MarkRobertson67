@@ -129,22 +129,21 @@
   <!-- CodePen (white bg) -->
   <a href="https://codepen.io/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg"
+      src="https://img.shields.io/badge/CodePen-%23121011?style=for-the-badge&logo=codepen&logoColor=white"
       alt="CodePen" title="CodePen"
       width="40" height="40"
-      style="background-color:white;border-radius:4px;padding:4px;"
     />
   </a>&nbsp;
 
-  <!-- GitHub (white bg) -->
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
-      alt="GitHub" title="GitHub"
-      width="40" height="40"
-      style="background-color:white;border-radius:4px;padding:4px;"
-    />
-  </a>&nbsp;
+  <!-- GitHub (white icon for dark mode) -->
+<a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png"
+    alt="GitHub" title="GitHub"
+    width="40" height="40"
+    style="max-width:100%;"
+  />
+</a>&nbsp;
 
   <!-- npm -->
   <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
@@ -183,6 +182,7 @@
   </a>&nbsp;
 
 </div>
+
 
 
 ---
