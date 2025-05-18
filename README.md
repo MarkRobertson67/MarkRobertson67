@@ -55,17 +55,9 @@
       width="40" height="40"
     />
   </a>&nbsp;
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
-      alt="Java" title="Java"
-      width="40" height="40"
-    />
-  </a>&nbsp;
+  
 
   <!-- 2. Front-end frameworks & styling -->
-  <!-- React (white logo-only badge) -->
-  
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
