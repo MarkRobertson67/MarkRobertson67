@@ -81,7 +81,7 @@
   </a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
       alt="Tailwind CSS" title="Tailwind CSS"
       width="40" height="40"
     />
