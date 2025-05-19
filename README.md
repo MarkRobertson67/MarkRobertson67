@@ -2,9 +2,35 @@
 ## 👋 Hi, I'm Mark Robertson 🇺🇸🇬🇧
 
 ### 🌐 My Sites
-- **Portfolio:** [markrobertson67.github.io](https://markrobertson67.github.io/)  
-- **Timecards Demo:** [wcac-timecards-demo.netlify.app](https://wcac-timecards-demo.netlify.app/)  
-- **City Whisperer:** [citywhisperer-mark.netlify.app](https://citywhisperer-mark.netlify.app/)  
+### 🌐 My Sites
+
+<div style="display:flex; gap:2rem; justify-content:center; flex-wrap:wrap;">
+  <div style="text-align:center; padding:1rem; border:1px solid #ddd; border-radius:8px; width:180px;">
+    <a href="https://markrobertson67.github.io/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+           alt="Portfolio" width="40" /><br/>
+      <strong>Portfolio</strong><br/>
+      markrobertson67.github.io
+    </a>
+  </div>
+  <div style="text-align:center; padding:1rem; border:1px solid #ddd; border-radius:8px; width:200px;">
+    <a href="https://wcac-timecards-demo.netlify.app/" target="_blank">
+      <img src="https://raw.githubusercontent.com/fullcalendar/fullcalendar/main/docs/favicon.png"
+           alt="Timecards Demo" width="40" /><br/>
+      <strong>Timecards Demo</strong><br/>
+      wcac-timecards-demo.netlify.app
+    </a>
+  </div>
+  <div style="text-align:center; padding:1rem; border:1px solid #ddd; border-radius:8px; width:200px;">
+    <a href="https://citywhisperer-mark.netlify.app/" target="_blank">
+      <img src="https://raw.githubusercontent.com/Leaflet/Leaflet/master/docs/logo.png"
+           alt="City Whisperer" width="40" /><br/>
+      <strong>City Whisperer</strong><br/>
+      citywhisperer-mark.netlify.app
+    </a>
+  </div>
+</div>
+
 
 
 👋 After many years as a trader, I’ve transitioned into software engineering with a strong focus on quantitative finance.
