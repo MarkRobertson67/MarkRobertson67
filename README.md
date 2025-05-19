@@ -39,22 +39,25 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="HTML5" title="HTML5"
       width="40" height="40"
+      hspace="5"
     />
-  </a>&nbsp;
+  </a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"
       alt="CSS3" title="CSS3"
       width="40" height="40"
+      hspace="5"
     />
-  </a>&nbsp;
+  </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="JavaScript" title="JavaScript"
       width="40" height="40"
+      hspace="5"
     />
-  </a>&nbsp;
+  </a>
   
 
   <!-- 2. Front-end frameworks & styling -->
