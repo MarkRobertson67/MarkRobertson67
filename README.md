@@ -32,120 +32,98 @@
 ---
 ### 🛠 Languages and Tools :
 
-### 🛠 Languages and Tools :
+<table cellpadding="8" cellspacing="0" style="border-collapse: collapse; margin-top: 1rem;">
+  <tr>
+    <th align="left" style="border-bottom: 2px solid #444;">Core</th>
+    <th align="left" style="border-bottom: 2px solid #444;">Front-End</th>
+    <th align="left" style="border-bottom: 2px solid #444;">Back-End</th>
+    <th align="left" style="border-bottom: 2px solid #444;">VCS &amp; Tools</th>
+    <th align="left" style="border-bottom: 2px solid #444;">Editors &amp; Community</th>
+  </tr>
+  <tr>
+    <!-- Core -->
+    <td style="border: 1px solid #444; border-top: none;">
+      <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+             alt="HTML5" width="40" height="40" />
+      </a>
+      <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"
+             alt="CSS3" width="40" height="40" />
+      </a>
+      <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+             alt="JavaScript" width="40" height="40" />
+      </a>
+    </td>
 
-<style>
-  .icon-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-    gap: 1rem;
-    margin-top: 1rem;
-  }
-  .icon-box {
-    border: 1px solid #444;
-    border-radius: 8px;
-    padding: 0.75rem;
-    text-align: center;
-  }
-  .icon-box strong {
-    display: block;
-    margin-bottom: 0.5rem;
-  }
-  .icon-box img {
-    margin: 0.25rem;
-    vertical-align: middle;
-  }
-  .icon-footer {
-    margin-top: 0.75rem;
-    font-size: 0.85em;
-  }
-</style>
+    <!-- Front-End -->
+    <td style="border: 1px solid #444; border-top: none;">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+             alt="React" width="40" height="40" />
+      </a>
+      <a href="https://sass-lang.com/" target="_blank">
+        <img src="./assets/Sass.png" alt="Sass" width="40" height="40" />
+      </a>
+      <a href="https://getbootstrap.com/" target="_blank">
+        <img src="./assets/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
+      </a>
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
+             alt="Tailwind CSS" width="40" height="40" />
+      </a>
+    </td>
 
-<div class="icon-grid">
+    <!-- Back-End -->
+    <td style="border: 1px solid #444; border-top: none;">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+             alt="Node.js" width="40" height="40" />
+      </a>
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="./assets/ExpressJS.webp" alt="Express.js" width="80" height="40" />
+      </a>
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+             alt="PostgreSQL" width="40" height="40" />
+      </a>
+    </td>
 
-  <div class="icon-box">
-    <strong>Core</strong>
-    <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-           alt="HTML5" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"
-           alt="CSS3" width="40" height="40"/>
-    </a>
-    <a href="https://www.javascript.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-           alt="JavaScript" width="40" height="40"/>
-    </a>
-  </div>
+    <!-- VCS & Tools -->
+    <td style="border: 1px solid #444; border-top: none;">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="./assets/Git.svg" alt="Git" width="80" height="40" />
+      </a>
+      <a href="https://github.com/" target="_blank">
+        <img src="./assets/gitHub.jpg" alt="GitHub" width="40" height="40" />
+      </a>
+      <a href="https://www.npmjs.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
+             alt="npm" width="40" height="40" />
+      </a>
+    </td>
 
-  <div class="icon-box">
-    <strong>Front-End</strong>
-    <a href="https://reactjs.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-           alt="React" width="40" height="40"/>
-    </a>
-    <a href="https://sass-lang.com/" target="_blank">
-      <img src="./assets/Sass.png" alt="Sass" width="40" height="40"/>
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank">
-      <img src="./assets/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank">
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
-           alt="Tailwind CSS" width="40" height="40"/>
-    </a>
-  </div>
+    <!-- Editors & Community -->
+    <td style="border: 1px solid #444; border-top: none;">
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
+             alt="VSCode" width="40" height="40" />
+      </a>
+      <a href="https://www.jetbrains.com/idea/" target="_blank">
+        <img src="./assets/intellij-idea.png" alt="IntelliJ IDEA" width="40" height="40" />
+      </a>
+      <a href="https://slack.com/" target="_blank">
+        <img src="./assets/Slack.png" alt="Slack" width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <div class="icon-box">
-    <strong>Back-End</strong>
-    <a href="https://nodejs.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-           alt="Node.js" width="40" height="40"/>
-    </a>
-    <a href="https://expressjs.com/" target="_blank">
-      <img src="./assets/ExpressJS.webp" alt="Express.js" width="80" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-           alt="PostgreSQL" width="40" height="40"/>
-    </a>
-  </div>
-
-  <div class="icon-box">
-    <strong>VCS & Tools</strong>
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="./assets/Git.svg" alt="Git" width="80" height="40"/>
-    </a>
-    <a href="https://github.com/" target="_blank">
-      <img src="./assets/gitHub.jpg" alt="GitHub" width="40" height="40"/>
-    </a>
-    <a href="https://www.npmjs.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
-           alt="npm" width="40" height="40"/>
-    </a>
-  </div>
-
-  <div class="icon-box">
-    <strong>Editors & Community</strong>
-    <a href="https://code.visualstudio.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
-           alt="VSCode" width="40" height="40"/>
-    </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank">
-      <img src="./assets/intellij-idea.png" alt="IntelliJ IDEA" width="40" height="40"/>
-    </a>
-    <a href="https://slack.com/" target="_blank">
-      <img src="./assets/Slack.png" alt="Slack" width="40" height="40"/>
-    </a>
-  </div>
-
-</div>
-
-
-<p style="margin-top: 8px; font-size: 0.9em;">
-  Icons by <a href="https://icons8.com" target="_blank">Icons8</a> and Devicon
+<p style="font-size:0.85em; margin-top:0.5rem;">
+  Icons by <a href="https://icons8.com" target="_blank">Icons8</a> &amp; Devicon
 </p>
+
 ---
 
 ![Mark’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRobertson67&show_icons=true&theme=blue-green)
