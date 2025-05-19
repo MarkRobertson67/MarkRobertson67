@@ -8,7 +8,7 @@
     <td align="center">
       <a href="https://markrobertson67.github.io/" target="_blank">
         <img src="./assets/Portfolio.png"
-             alt="Portfolio" width="48" /><br/>
+             alt="Portfolio" width="148" /><br/>
         <strong>Portfolio</strong><br/>
         markrobertson67.github.io
       </a>
@@ -16,7 +16,7 @@
     <td align="center">
       <a href="https://wcac-timecards-demo.netlify.app/" target="_blank">
         <img src="./assets/TimeCardApp.png"
-             alt="Timecards Demo" width="48" /><br/>
+             alt="Timecards Demo" width="148" /><br/>
         <strong>Timecards Demo</strong><br/>
         wcac-timecards-demo.netlify.app
       </a>
@@ -24,7 +24,7 @@
     <td align="center">
       <a href="https://citywhisperer-mark.netlify.app/" target="_blank">
         <img src="./assets/CityWhispererApp.png"
-             alt="City Whisperer" width="48" /><br/>
+             alt="City Whisperer" width="148" /><br/>
         <strong>City Whisperer</strong><br/>
         citywhisperer-mark.netlify.app
       </a>
