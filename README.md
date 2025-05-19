@@ -70,7 +70,7 @@
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      src="./assets/Sass.png"
       alt="Sass" title="Sass"
       width="40" height="40"
       style="margin-right:8px;"
@@ -158,7 +158,7 @@
   </a>
   <a href="https://slack.com/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg"
+      src="./assets/Slack.png"
       alt="Slack" title="Slack"
       width="40" height="40"
       style="margin-right:8px;"
@@ -181,7 +181,7 @@
     />
   </a>
 </div>
-
+<a target="_blank" href="https://icons8.com"></a> Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
 ---
 
 ![Mark’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRobertson67&show_icons=true&theme=blue-green)
