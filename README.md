@@ -49,12 +49,17 @@
 ---
 ### 📫 How to reach me:
 
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mark-robertson-ny-uk/))
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:MarkRobertson67@gmail.com)
+<div align="center" style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/mark-robertson-ny-uk/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"
+         alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:MarkRobertson67@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white"
+         alt="Gmail Badge" />
+  </a>
+</div>
 
-
-<!-- - Email: [markrobertson67@gmail.com](mailto:markrobertson67@gmail.com)
-- LinkedIn: [www.linkedin.com/in/mark-robertson-NY-UK](https://www.linkedin.com/in/mark-robertson-NY-UK) -->
 
 ---
 ### Profiles:
