@@ -34,15 +34,6 @@
 
 <div align="left">
   <!-- 1. Core languages -->
-    </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="JavaScript" title="JavaScript"
-      width="40" height="40"
-      style="margin-right:8px;"
-    />
-  </a>
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -58,6 +49,15 @@
       width="40" height="40"
       style="margin-right:8px;"
     />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="JavaScript" title="JavaScript"
+      width="40" height="40"
+      style="margin-right:8px;"
+    />
+  </a>
 
   <!-- 2. Front-end frameworks & styling -->
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
@@ -181,9 +181,8 @@
     />
   </a>
 </div>
-<p style="margin-top: 8px; font-size: 0.9em;">
-  Icons by <a href="https://icons8.com" target="_blank">Icons8</a> and Devicon
-</p>
+<a target="_blank" href="https://icons8.com"></a> Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
+<p>and devicon</p>
 ---
 
 ![Mark’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRobertson67&show_icons=true&theme=blue-green)
