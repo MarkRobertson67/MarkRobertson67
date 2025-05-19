@@ -7,13 +7,16 @@
 - **City Whisperer:** [citywhisperer-mark.netlify.app](https://citywhisperer-mark.netlify.app/)  
 
 
-👀 I'm interested in coding financial solutions in FinTech and Web Apps.
+👋 After many years as a trader, I’ve transitioned into software engineering with a strong focus on quantitative finance.
 
-🌱 I'm currently learning to be a FSW Developer at Pursuit.org.
+💻 Passionate about building FinTech platforms, data pipelines, and back-testing frameworks.
 
-💞️ I'm looking to collaborate on anything fun.
+🎓 Proud Pursuit FSW grad, now deep-diving into machine learning, statistics, and algorithmic trading strategies.
 
-🏎️ In my free time, you can find me enjoying Formula 1 racing, exploring new places, and savoring delicious meals while watching great movies with amazing company.
+🤝 Always open to collaborating on ML-driven trading tools, data science projects, and anything at the intersection of code and markets.
+
+🏎️ Off the clock, I’m a Formula 1 fanatic, world traveler, foodie, and movie buff.
+
 
 ---
 ### 📫 How to reach me:
