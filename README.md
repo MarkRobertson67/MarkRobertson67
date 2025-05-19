@@ -49,16 +49,8 @@
 ---
 ### 📫 How to reach me:
 
-<div align="center" style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/mark-robertson-ny-uk/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"
-         alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:MarkRobertson67@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white"
-         alt="Gmail Badge" />
-  </a>
-</div>
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mark-robertson-ny-uk/)
+- [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:MarkRobertson67@gmail.com)
 
 
 ---
@@ -67,9 +59,10 @@
 - Codewars: [![Codewars Badge](https://www.codewars.com/users/Goldsuccess167/badges/small)](https://www.codewars.com/users/Goldsuccess167)
 - Leetcode: <a href="https://leetcode.com/Goldsuccess167/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" width="100" alt="Leetcode Badge"></a>
 
-
-<!-- - Codewars: [![Codewars Badge](https://www.codewars.com/users/Goldsuccess167/badges/large)](https://www.codewars.com/users/Goldsuccess167)
-- Leetcode: [![Leetcode Badge](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)](https://leetcode.com/Goldsuccess167/) -->
+---
+## 🎓 Education & Learning
+- Pursuit Fellowship — Full-Stack Web Development 
+- Rutgers School of Business** — B.S. in Marketing 
 
 ---
 ### 🛠 Languages and Tools :
@@ -232,6 +225,3 @@ and devicon</p>
 ![Mark’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRobertson67&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRobertson67&layout=donut&show_icons=true&theme=blue-green)
 </p>
-
-
-
