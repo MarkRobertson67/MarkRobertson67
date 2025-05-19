@@ -2,34 +2,36 @@
 ## 👋 Hi, I'm Mark Robertson 🇺🇸🇬🇧
 
 ### 🌐 My Sites
-### 🌐 My Sites
 
-<div style="display:flex; gap:2rem; justify-content:center; flex-wrap:wrap;">
-  <div style="text-align:center; padding:1rem; border:1px solid #ddd; border-radius:8px; width:180px;">
-    <a href="https://markrobertson67.github.io/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-           alt="Portfolio" width="40" /><br/>
-      <strong>Portfolio</strong><br/>
-      markrobertson67.github.io
-    </a>
-  </div>
-  <div style="text-align:center; padding:1rem; border:1px solid #ddd; border-radius:8px; width:200px;">
-    <a href="https://wcac-timecards-demo.netlify.app/" target="_blank">
-      <img src="https://raw.githubusercontent.com/fullcalendar/fullcalendar/main/docs/favicon.png"
-           alt="Timecards Demo" width="40" /><br/>
-      <strong>Timecards Demo</strong><br/>
-      wcac-timecards-demo.netlify.app
-    </a>
-  </div>
-  <div style="text-align:center; padding:1rem; border:1px solid #ddd; border-radius:8px; width:200px;">
-    <a href="https://citywhisperer-mark.netlify.app/" target="_blank">
-      <img src="https://raw.githubusercontent.com/Leaflet/Leaflet/master/docs/logo.png"
-           alt="City Whisperer" width="40" /><br/>
-      <strong>City Whisperer</strong><br/>
-      citywhisperer-mark.netlify.app
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://markrobertson67.github.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+             alt="Portfolio" width="48" /><br/>
+        <strong>Portfolio</strong><br/>
+        markrobertson67.github.io
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wcac-timecards-demo.netlify.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/fullcalendar/fullcalendar/main/docs/favicon.png"
+             alt="Timecards Demo" width="48" /><br/>
+        <strong>Timecards Demo</strong><br/>
+        wcac-timecards-demo.netlify.app
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://citywhisperer-mark.netlify.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Leaflet/Leaflet/master/docs/logo.png"
+             alt="City Whisperer" width="48" /><br/>
+        <strong>City Whisperer</strong><br/>
+        citywhisperer-mark.netlify.app
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
