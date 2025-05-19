@@ -39,7 +39,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="HTML5" title="HTML5"
       width="40" height="40"
-      hspace="5"
+      style="margin-right:5px;"
     />
   </a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
@@ -47,7 +47,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"
       alt="CSS3" title="CSS3"
       width="40" height="40"
-      hspace="5"
+       style="margin-right:5px;"
     />
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
@@ -55,7 +55,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="JavaScript" title="JavaScript"
       width="40" height="40"
-      hspace="5"
+       style="margin-right:5px;"
     />
   </a>
   
@@ -67,28 +67,28 @@
       alt="React" title="React"
       width="40" height="40"
     />
-  </a>&nbsp;
+  </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
       alt="Sass" title="Sass"
       width="40" height="40"
     />
-  </a>&nbsp;
+  </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
       alt="Bootstrap" title="Bootstrap"
       width="40" height="40"
     />
-  </a>&nbsp;
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
       alt="Tailwind CSS" title="Tailwind CSS"
       width="40" height="40"
     />
-  </a>&nbsp;
+  </a>
 
   <!-- 3. Back-end runtime & framework -->
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
@@ -104,7 +104,7 @@
       alt="Express.js" title="Express.js"
       width="40" height="40"
     />
-  </a>&nbsp;
+  </a>
 
   <!-- 4. Database -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
@@ -113,7 +113,7 @@
       alt="PostgreSQL" title="PostgreSQL"
       width="40" height="40"
     />
-  </a>&nbsp;
+  </a>
 
   <!-- 5. Version control & package managers -->
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
@@ -122,21 +122,21 @@
       alt="Git" title="Git"
       width="40" height="40"
     />
-  </a>&nbsp;
+  </a>
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
     <img
       src="[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQRdhYjGRBRadNoiJfrD3r9oK8oIMqVBuLI-xAwf-XMjd_qx4ra7c8hj7ArtGdZiZN0A&usqp=CAU)"
       alt="GitHub" title="GitHub"
       width="40" height="40"
     />
-  </a>&nbsp;
+  </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
       alt="npm" title="npm"
       width="40" height="40"
     />
-  </a>&nbsp;
+  </a>
 
   <!-- 6. Community & editors -->
   <a href="https://codepen.io/" target="_blank" rel="noopener noreferrer">
@@ -145,28 +145,31 @@
       alt="CodePen" title="CodePen"
       width="40" height="40"
     />
-  </a>&nbsp;
+  </a>
   <a href="https://slack.com/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg"
       alt="Slack" title="Slack"
       width="40" height="40"
     />
-  </a>&nbsp;
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"
       alt="VSCode" title="VSCode"
       width="40" height="40"
     />
-  </a>&nbsp;
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg)"
-      alt="IntelliJ IDEA" title="IntelliJ IDEA"
-      width="40" height="40"
-    />
   </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg"
+    alt="IntelliJ IDEA"
+    title="IntelliJ IDEA"
+    width="40"
+    height="40"
+  />" "
+</a>
+
 </div>
 
 ---
