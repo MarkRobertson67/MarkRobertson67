@@ -39,7 +39,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="HTML5" title="HTML5"
       width="40" height="40"
-      style="margin-right:8px;"
+      
     />
   </a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
@@ -47,7 +47,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"
       alt="CSS3" title="CSS3"
       width="40" height="40"
-      style="margin-right:8px;"
+      
     />
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
@@ -181,8 +181,9 @@
     />
   </a>
 </div>
-<a target="_blank" href="https://icons8.com"></a> Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
-<p>and devicon</p>
+<p style="margin-top: 8px; font-size: 0.9em;">
+  Icons by <a href="https://icons8.com" target="_blank">Icons8</a> and Devicon
+</p>
 ---
 
 ![Mark’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRobertson67&show_icons=true&theme=blue-green)
