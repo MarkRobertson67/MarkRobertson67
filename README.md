@@ -127,19 +127,9 @@
   </tbody>
 </table>
 
-<p style="font-size:0.85em; text-align:center; margin-top:0.5rem;">
-  Icons by <a href="https://icons8.com" target="_blank">Icons8</a> &amp; Devicon
-</p>
 
-
-
-<a target="_blank" href="https://icons8.com"></a> Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
-<p>and devicon</p>
 ---
 
 ![Mark’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRobertson67&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRobertson67&layout=donut&show_icons=true&theme=blue-green)
-</p>
-
-
 
