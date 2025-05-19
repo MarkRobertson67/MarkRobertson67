@@ -1,6 +1,8 @@
 
 ## 👋 Hi, I'm Mark Robertson 🇺🇸🇬🇧
 
+🌐 Check out my portfolio: [markrobertson67.github.io](https://markrobertson67.github.io/)  
+
 👀 I'm interested in coding financial solutions in FinTech and Web Apps.
 
 🌱 I'm currently learning to be a FSW Developer at Pursuit.org.
@@ -183,8 +185,8 @@
 </div>
 
 
-<a target="_blank" href="https://icons8.com"></a> Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
-<p>and devicon</p>
+<p><a target="_blank" href="https://icons8.com"></a> Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
+and devicon</p>
 ---
 
 ![Mark’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRobertson67&show_icons=true&theme=blue-green)
