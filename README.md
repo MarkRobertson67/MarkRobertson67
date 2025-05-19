@@ -152,7 +152,7 @@
     <img
       src="./assets/CodePenLogo.png"
       alt="CodePen" title="CodePen"
-      width="40" height="40"
+      width="50" height="40"
       style="margin-right:8px;"
     />
   </a>
