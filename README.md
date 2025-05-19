@@ -106,7 +106,7 @@
     <img
       src="./assets/ExpressJS.webp"
       alt="Express.js" title="Express.js"
-      width="60" height="40"
+      width="80" height="40"
       style="margin-right:8px;"
     />
   </a>
@@ -126,7 +126,7 @@
     <img
       src="./assets/Git.png"
       alt="Git" title="Git"
-      width="60" height="40"
+      width="80" height="40"
       style="margin-right:8px;"
     />
   </a>
@@ -174,7 +174,7 @@
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
     <img
-      src="./assets/intellij-idea"
+      src="./assets/intellij-idea.png"
       alt="IntelliJ IDEA" title="IntelliJ IDEA"
       width="40" height="40"
       style="margin-right:8px;"
