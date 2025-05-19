@@ -7,7 +7,7 @@
   <tr>
     <td align="center">
       <a href="https://markrobertson67.github.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+        <img src="./assets/Portfolio.png"
              alt="Portfolio" width="48" /><br/>
         <strong>Portfolio</strong><br/>
         markrobertson67.github.io
@@ -15,7 +15,7 @@
     </td>
     <td align="center">
       <a href="https://wcac-timecards-demo.netlify.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/fullcalendar/fullcalendar/main/docs/favicon.png"
+        <img src="./assets/TimeCardApp.png"
              alt="Timecards Demo" width="48" /><br/>
         <strong>Timecards Demo</strong><br/>
         wcac-timecards-demo.netlify.app
@@ -23,7 +23,7 @@
     </td>
     <td align="center">
       <a href="https://citywhisperer-mark.netlify.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Leaflet/Leaflet/master/docs/logo.png"
+        <img src="./assets/CityWhispererApp.png"
              alt="City Whisperer" width="48" /><br/>
         <strong>City Whisperer</strong><br/>
         citywhisperer-mark.netlify.app
