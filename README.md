@@ -106,7 +106,7 @@
     <img
       src="./assets/ExpressJS.webp"
       alt="Express.js" title="Express.js"
-      width="40" height="40"
+      width="60" height="40"
       style="margin-right:8px;"
     />
   </a>
@@ -126,7 +126,7 @@
     <img
       src="./assets/Git.png"
       alt="Git" title="Git"
-      width="40" height="40"
+      width="60" height="40"
       style="margin-right:8px;"
     />
   </a>
@@ -150,7 +150,7 @@
   <!-- 6. Community & editors -->
   <a href="https://codepen.io/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg"
+      src="./assets/CodePen.jpg"
       alt="CodePen" title="CodePen"
       width="40" height="40"
       style="margin-right:8px;"
@@ -174,7 +174,7 @@
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg"
+      src="./assets/intellij-idea"
       alt="IntelliJ IDEA" title="IntelliJ IDEA"
       width="40" height="40"
       style="margin-right:8px;"
