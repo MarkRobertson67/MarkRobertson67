@@ -150,7 +150,7 @@
   <!-- 6. Community & editors -->
   <a href="https://codepen.io/" target="_blank" rel="noopener noreferrer">
     <img
-      src="./assets/CodePen.jpg"
+      src="./assets/CodePenLogo.png"
       alt="CodePen" title="CodePen"
       width="40" height="40"
       style="margin-right:8px;"
@@ -182,6 +182,7 @@
   </a>
 </div>
 <a target="_blank" href="https://icons8.com"></a> Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
+<p>and devicon</p>
 ---
 
 ![Mark’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRobertson67&show_icons=true&theme=blue-green)
