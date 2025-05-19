@@ -78,7 +78,7 @@
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
+      src="./assets/bootstrap-original.svg"
       alt="Bootstrap" title="Bootstrap"
       width="40" height="40"
       style="margin-right:8px;"
@@ -104,7 +104,7 @@
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="./assets/ExpressJS.webp"
       alt="Express.js" title="Express.js"
       width="40" height="40"
       style="margin-right:8px;"
@@ -124,7 +124,7 @@
   <!-- 5. Version control & package managers -->
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
+      src="./assets/Git.png"
       alt="Git" title="Git"
       width="40" height="40"
       style="margin-right:8px;"
@@ -132,7 +132,7 @@
   </a>
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png"
+      src="./assets/gitHub.jpg"
       alt="GitHub" title="GitHub"
       width="40" height="40"
       style="margin-right:8px;"
