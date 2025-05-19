@@ -124,7 +124,7 @@
   <!-- 5. Version control & package managers -->
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img
-      src="./assets/Git.png"
+      src="./assets/Git.svg"
       alt="Git" title="Git"
       width="80" height="40"
       style="margin-right:8px;"
