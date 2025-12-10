@@ -35,9 +35,9 @@
 
 
 
-👋 After many years as a trader, I’ve transitioned into software engineering with a strong focus on quantitative finance.
+👋 Former trader now focused on data analytics, and quantitative finance.
 
-💻 Passionate about building FinTech platforms, data pipelines, and back-testing frameworks.
+💻 I build dashboards, clean and analyze datasets, and develop insights that help solve business problems.
 
 🎓 Proud Pursuit FSW grad, now deep-diving into machine learning, statistics, and algorithmic trading strategies.
 
