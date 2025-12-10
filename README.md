@@ -248,6 +248,22 @@
       style="margin-right:8px;"
     />
   </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg"
+    alt="Tableau" title="Tableau"
+    width="40" height="40"
+    style="margin-right:8px;"
+  />
+  </a>
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg"
+    alt="Excel" title="Excel"
+    width="40" height="40"
+    style="margin-right:8px;"
+  />
+  </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
     <img
       src="./assets/intellij-idea.png"
