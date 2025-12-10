@@ -110,6 +110,14 @@
       width="40" height="40"
       style="margin-right:8px;"
     />
+    </a>
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    alt="Python" title="Python"
+    width="40" height="40"
+    style="margin-right:8px;"
+  />
   </a>
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img
