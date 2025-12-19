@@ -35,17 +35,14 @@
 
 
 
-👋 Former trader now focused on data analytics, and quantitative finance.
+📊 Data Analyst with a finance background, specializing in SQL, Python, and data-driven insights.
 
-💻 I build dashboards, clean and analyze datasets, and develop insights that help solve business problems.
+💻 I analyze, clean, and validate datasets using SQL and Python, and communicate insights through dashboards and reports that support business decision-making.
 
-🎓 Proud Pursuit FSW grad, now deep-diving into machine learning, statistics, and algorithmic trading strategies.
+📈 Former institutional trader bringing a quantitative, results-driven approach to data analysis, financial metrics, and stakeholder communication.
 
-🤝 Always open to collaborating on ML-driven trading tools, data science projects, and anything at the intersection of code and markets.
+🤝 Interested in collaborating on data analytics, business intelligence, and finance-focused data projects.
 
-📚 Next up: pursuing certificates in Machine Learning, Artificial Intelligence, and Quantitative Finance.
-
-🏎️ Off the clock, I’m a Formula 1 fanatic, world traveler, foodie, and movie buff.
 
 
 ---
@@ -266,6 +263,8 @@
 <p><a target="_blank" href="https://icons8.com"></a> Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
 and devicon</p>
 ---
+
+🏎️ Off the clock, I’m a Formula 1 fanatic, world traveler, foodie, and movie buff.
 
 ![Mark’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRobertson67&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRobertson67&layout=donut&show_icons=true&theme=blue-green)
