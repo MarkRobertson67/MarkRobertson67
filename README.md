@@ -61,48 +61,48 @@
 </table>
 
 #### 🖥️ Web Apps
-<table>
-    <td align="center">
-      <strong><br/>Timecards Demo</strong><br/><br/>
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td align="center" valign="top" style="padding: 10px;">
+      <strong>Timecards Demo</strong><br/><br/>
       <a href="https://wcac-timecards-demo.netlify.app/" target="_blank">
         <img src="./assets/TimeCardApp.png"
-             alt="Timecards Demo" width="550" /><br/>
+             alt="Timecards Demo" style="width:100%; max-width:500px; height:auto;" /><br/>
         wcac-timecards-demo.netlify.app
       </a>
-      <br/>
-        <em>
-    SQL | PostgreSQL (Neon) | Data Modeling | Aggregations | Reporting<br/>
-    Payroll Data | Time-Series Data | CSV Exports | KPI Calculation<br/>
-    Business Metrics | Data Validation
-  </em>
-
-  <br/><br/>
-
-  <span style="font-size: 0.9em;">
-    Modeled and aggregated payroll time-series data to generate biweekly KPIs
-    and export clean CSV reports for downstream payroll systems.
-  </span>
+      <br/><br/>
+      <em style="font-size: 0.9em;">
+        SQL | PostgreSQL (Neon) | Data Modeling | Aggregations | Reporting<br/>
+        Payroll Data | Time-Series Data | CSV Exports | KPI Calculation<br/>
+        Business Metrics | Data Validation
+      </em>
+      <br/><br/>
+      <span style="font-size: 0.9em;">
+        Modeled and aggregated payroll time-series data to generate biweekly KPIs
+        and export clean CSV reports for downstream payroll systems.
+      </span>
     </td>
-    <td align="center">
-      <strong><br/>City Whisperer</strong><br/><br/>
+    <td align="center" valign="top" style="padding: 10px;">
+      <strong>City Whisperer</strong><br/><br/>
       <a href="https://citywhisperer-mark.netlify.app/" target="_blank">
         <img src="./assets/CityWhispererApp.png"
-             alt="City Whisperer" width="550" /><br/>
+             alt="City Whisperer" style="width:100%; max-width:500px; height:auto;" /><br/>
         citywhisperer-mark.netlify.app
       </a>
       <br/><br/>
-      <em>
+      <em style="font-size: 0.9em;">
         SQL | PostgreSQL | API Data Ingestion | Data Processing | Feature Engineering<br/>
         OpenAI API | Google Maps API | Data Pipelines | Data Visualization
       </em>
       <br/><br/>
-      <span>
+      <span style="font-size: 0.9em;">
         Ingested and transformed multi-source API data to generate personalized,
         insight-driven walking tours with AI-generated content and geospatial logic.
       </span>
     </td>
   </tr>
 </table>
+
 
 ---
 
