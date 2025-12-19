@@ -121,7 +121,8 @@
 ---
 ## 🎓 Education & Awards
 
-- **Advanced Software Engineering Immersive Program**, Pursuit.org
+- **Advanced Software Engineering Immersive Program**, Pursuit.org<br/>
+    – JavaScript, SQL, APIs, full-stack application development, data-driven projects 
 - **The Wall Street Quants**, Quantitative Finance & Machine Learning (In Progress)<br/>
    – Time-series analysis, factor models, backtesting, and statistical arbitrage
 - **BS in Marketing**, Rutgers, The State University of New Jersey – School of Business
