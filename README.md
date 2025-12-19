@@ -122,7 +122,8 @@
 ## 🎓 Education & Awards
 
 - **Advanced Software Engineering Immersive Program**, Pursuit.org
-- **The Wall Street Quants**, Quantitative Finance & Machine Learning (In Progress)
+- **The Wall Street Quants**, Quantitative Finance & Machine Learning (In Progress)<br/>
+   – Time-series analysis, factor models, backtesting, and statistical arbitrage
 - **BS in Marketing**, Rutgers, The State University of New Jersey – School of Business
 - **BA in Applied Art**, University of Hertfordshire, UK  
 
