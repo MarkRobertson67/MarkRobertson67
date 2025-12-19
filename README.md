@@ -64,9 +64,12 @@
 ---
 ## 🎓 Education & Awards
 
-- **BS in Marketing**, Rutgers, The State University of New Jersey – School of Business  
+- **The Wall Street Quants – Quantitative Finance & Machine Learning (In Progress)
+- **Advanced Software Engineering Immersive Program**, Pursuit.org 
+- **BS in Marketing**, Rutgers, The State University of New Jersey – School of Business
 - **BA in Applied Art**, University of Hertfordshire, UK  
-- **Advanced Software Engineering Immersive Program**, Pursuit.org  
+
+## 🏆 Awards  
 - **Award:** Best Storytelling, Pursuit Hackathon (Class of 9.3 & 9.4) — *accessandlearn.netlify.app*
 
 ---
