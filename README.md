@@ -1,6 +1,17 @@
 
 ## 👋 Hi, I'm Mark Robertson 🇺🇸🇬🇧
 
+
+📊 Data Analyst with a finance background, specializing in SQL, Python, and data-driven insights.
+
+💻 I analyze, clean, and validate datasets using SQL and Python, and communicate insights through dashboards and reports that support business decision-making.
+
+📈 Former institutional trader bringing a quantitative, results-driven approach to data analysis, financial metrics, and stakeholder communication.
+
+🤝 Interested in collaborating on data analytics, business intelligence, and finance-focused data projects.
+
+---
+
 ### 🌐 My Sites
 
 <table>
@@ -31,21 +42,9 @@
     </td>
   </tr>
 </table>
-
-
-
-
-📊 Data Analyst with a finance background, specializing in SQL, Python, and data-driven insights.
-
-💻 I analyze, clean, and validate datasets using SQL and Python, and communicate insights through dashboards and reports that support business decision-making.
-
-📈 Former institutional trader bringing a quantitative, results-driven approach to data analysis, financial metrics, and stakeholder communication.
-
-🤝 Interested in collaborating on data analytics, business intelligence, and finance-focused data projects.
-
-
-
 ---
+
+
 ### 📫 How to reach me:
 
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mark-robertson-ny-uk/)
