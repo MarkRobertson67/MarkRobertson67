@@ -37,7 +37,7 @@
     <td align="center">
       <a href="https://markrobertson67.github.io/" target="_blank">
         <img src="./assets/Portfolio.png"
-             alt="Portfolio" width="250" /><br/>
+             alt="Portfolio" width="500" /><br/>
         <strong>Portfolio</strong><br/>
         markrobertson67.github.io
       </a>
@@ -52,7 +52,7 @@
     <td align="center">
       <a href="#" target="_blank">
         <img src="./assets/placeholder.png"
-             alt="Data Project 1" width="250" /><br/>
+             alt="Data Project 1" width="500" /><br/>
         <strong>Project Name</strong><br/>
         Short description
       </a>
@@ -136,13 +136,13 @@
 
 - **Software Developer & Part-Time Driver**, We Care Adult Care, Inc.  
   *June 2023 – Feb 2025*  
-  - Autonomously developed and deployed a full-stack timecard application, replacing a manual pen-and-paper system.  
-  - Built the front end with JavaScript and React, and the back end with Express and SQL (Neon for database management).  
-  - Launched the app via Netlify and Render; now actively used by staff.
+  - Developed and deployed a full-stack timecard application, improving data collection accuracy and operational efficiency.  
+  - Engineered SQL database and automated dashboards to analyze staff time, payroll, and productivity metrics.
+  - Performed data cleaning and visualization to support management decision-making.
 
 - **Founder & Principal**, St. Albans Capital, LLC  
   *Mar 1996 – Dec 2022*  
-  - Directed a team of five traders, managing daily transactions of \$100 M+ in high-yield bonds, equities, and U.S. Treasuries.  
+  - Analyzed large financial datasets to identify market inefficiencies and optimize trading strategies.
   - Utilized Bloomberg Terminal to analyze market inefficiencies, price discrepancies, and liquidity trends, optimizing trading decisions.  
   - Delivered transparent market reports to high-net-worth clients, ensuring trust through strategic insights and clear communication.
 
