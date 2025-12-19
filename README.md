@@ -24,9 +24,9 @@
 
 🛠 Development Tools
 
-• Jupyter Notebook, Docker
-• React, Node.js, Express  
+• Jupyter Notebook, Docker  
 • Git, GitHub, VSCode  
+• React, Node.js, Express
 
 ---
 
