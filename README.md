@@ -1,6 +1,8 @@
 
 ## 👋 Hi, I'm Mark Robertson 🇺🇸🇬🇧
 
+🎯 Currently seeking Data Analyst or Business Analyst roles where I can apply SQL, Python, and analysis to real-world datasets.
+
 
 📊 Data Analyst with a finance background, specializing in SQL, Python, and data-driven insights.
 
@@ -12,8 +14,24 @@
 
 ---
 
+🛠 Data & Analytics Tools
+
+• SQL (PostgreSQL, MySQL)  
+• Python (pandas, numpy, matplotlib, seaborn)  
+• Tableau (Dashboards & Reporting)  
+• Excel (PivotTables, VLOOKUP)  
+• Data Cleaning & Validation
+
+🛠 Development Tools
+
+• React, Node.js, Express  
+• Git, GitHub, VSCode  
+
+---
+
 ### 🌐 My Sites
 
+#### 📁 Portfolio
 <table>
   <tr>
     <td align="center">
@@ -24,6 +42,26 @@
         markrobertson67.github.io
       </a>
     </td>
+  </tr>
+</table>
+
+#### 📊 Data Analysis Projects
+<!-- Add data projects here later -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" target="_blank">
+        <img src="./assets/placeholder.png"
+             alt="Data Project 1" width="250" /><br/>
+        <strong>Project Name</strong><br/>
+        Short description
+      </a>
+    </td>
+  </tr>
+</table>
+
+#### 🖥️ Web Apps
+<table>
     <td align="center">
       <a href="https://wcac-timecards-demo.netlify.app/" target="_blank">
         <img src="./assets/TimeCardApp.png"
@@ -42,6 +80,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 
@@ -49,7 +88,6 @@
 
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mark-robertson-ny-uk/)
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:MarkRobertson67@gmail.com)
-
 
 ---
 ### Profiles:
@@ -60,8 +98,8 @@
 ---
 ## 🎓 Education & Awards
 
+- **Advanced Software Engineering Immersive Program**, Pursuit.org
 - **The Wall Street Quants**, Quantitative Finance & Machine Learning (In Progress)
-- **Advanced Software Engineering Immersive Program**, Pursuit.org 
 - **BS in Marketing**, Rutgers, The State University of New Jersey – School of Business
 - **BA in Applied Art**, University of Hertfordshire, UK  
 
@@ -94,7 +132,6 @@
   - Co-founded a team to build and fund a black-box equity-trading system with a core AI engine.  
   - Secured \$100 K in seed capital for live beta trading, hosted on Genesis Securities.  
   - Launched and managed the beta system, driving early proof-of-concept success.
-
 
 ---
 ### 🛠 Languages and Tools :
@@ -261,9 +298,12 @@
 
 <p><a target="_blank" href="https://icons8.com"></a> Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
 and devicon</p>
+
 ---
 
 🏎️ Off the clock, I’m a Formula 1 fanatic, world traveler, foodie, and movie buff.
+
+---
 
 ![Mark’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRobertson67&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRobertson67&layout=donut&show_icons=true&theme=blue-green)
