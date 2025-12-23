@@ -73,8 +73,8 @@
       </a>
       <br/><br/>
       <em style="font-size: 0.9em;">
-        SQL | PostgreSQL (Neon) | Data Modeling | Aggregations | Reporting<br/>
-        Payroll Data | Time-Series Data | CSV Exports | KPI Calculation<br/>
+        SQL | PostgreSQL (Neon) | Data Modeling | Aggregations | Reporting:<br/>
+        Payroll Data | Time-Series Data | CSV Exports | KPI Calculation:<br/>
         Business Metrics | Data Validation
       </em>
       <br/><br/>
@@ -92,7 +92,7 @@
       </a>
       <br/><br/>
       <em style="font-size: 0.9em;">
-        SQL | PostgreSQL | API Data Ingestion | Data Processing | Feature Engineering<br/>
+        SQL | PostgreSQL | API Data Ingestion | Data Processing | Feature Engineering:<br/>
         OpenAI API | Google Maps API | Data Pipelines | Data Visualization
       </em>
       <br/><br/>
