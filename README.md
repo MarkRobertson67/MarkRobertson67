@@ -65,7 +65,7 @@
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td align="center" valign="top" style="padding: 10px;">
-      <strong>Timecards Demo</strong><br/><br/>
+      <strong>Timecards Demo — Production Web App</strong><br/><br/>
       <a href="https://wcac-timecards-demo.netlify.app/" target="_blank">
         <img src="./assets/TimeCardApp.png"
              alt="Timecards Demo" style="width:100%; max-width:500px; height:auto;" /><br/>
