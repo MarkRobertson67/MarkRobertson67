@@ -47,15 +47,15 @@
 </table>
 
 #### 📊 Data Analysis Projects
-<!-- Add data projects here later -->
+
 <table>
   <tr>
     <td align="center">
-      <a href="#" target="_blank">
-        <img src="./assets/placeholder.png"
-             alt="Data Project 1" width="500" /><br/>
-        <strong>Project Name</strong><br/>
-        Short description
+      <a href="https://github.com/MarkRobertson67/sales_lead_funnel_analysis" target="_blank">
+        <img src="https://raw.githubusercontent.com/MarkRobertson67/sales_lead_funnel_analysis/main/screenshots/funnel_dashboard.png"
+             alt="Sales Lead Funnel Analysis Dashboard" width="500" /><br/>
+        <strong>Sales Lead Funnel Analysis</strong><br/>
+        Analyzed a sales leads dataset to measure funnel conversion rates and identify drop-off points using SQL. Validated results in Excel and built an interactive Tableau dashboard to surface actionable sales insights.
       </a>
     </td>
   </tr>
