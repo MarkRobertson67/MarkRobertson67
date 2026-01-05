@@ -46,7 +46,7 @@
   </tr>
 </table>
 
-#### 📊 Data Analysis Projects
+#### 📊 Data Analysis Projects - COMING SOON!
 
 <table>
   <tr>
