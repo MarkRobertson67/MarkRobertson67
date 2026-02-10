@@ -37,14 +37,21 @@
   <tr>
     <td align="center">
       <a href="https://markrobertson67.github.io/" target="_blank">
-        <img src="./assets/Portfolio1.png"
-             alt="Portfolio" width="500" /><br/>
-        <strong>Portfolio</strong><br/>
+        <img 
+          src="./assets/Portfolio1.png"
+          alt="Mark Robertson Portfolio Website"
+          width="500"
+        /><br/>
+        <strong>Portfolio Website</strong>
       </a>
-      markrobertson67.github.io
+      <br/>
+      <a href="https://markrobertson67.github.io/" target="_blank">
+        markrobertson67.github.io
+      </a>
     </td>
   </tr>
 </table>
+
 
 #### 📊 Data Analysis Projects
 
