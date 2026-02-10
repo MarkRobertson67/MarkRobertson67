@@ -1,16 +1,13 @@
 
 ## 👋 Hi, I'm Mark Robertson 🇺🇸🇬🇧
 
-🎯 Currently seeking Data Analyst or Business Analyst roles where I can apply SQL, Python, and analysis to real-world datasets.
+📊 **Data Analyst with a finance background**, focused on turning raw data into clear, actionable insights.
 
+🛠️ I work primarily with **SQL, Python, Excel, and Tableau** to clean, validate, and analyze datasets, and to communicate results through dashboards and reports that support business decision-making.
 
-📊 Data Analyst with a finance background, specializing in SQL, Python, and data-driven insights.
+📈 Former **institutional trader**, bringing a quantitative, results-driven approach to data analysis, financial metrics, and stakeholder communication.
 
-💻 I analyze, clean, and validate datasets using SQL and Python, and communicate insights through dashboards and reports that support business decision-making.
-
-📈 Former institutional trader bringing a quantitative, results-driven approach to data analysis, financial metrics, and stakeholder communication.
-
-🤝 Interested in collaborating on data analytics, business intelligence, and finance-focused data projects.
+🎯 Currently seeking **Data Analyst or Business Analyst roles**, and open to collaborating on analytics, business intelligence, and finance-focused data projects.
 
 ---
 
