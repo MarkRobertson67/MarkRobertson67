@@ -118,7 +118,6 @@
         GitHub Repo
       </a>
     </td>
-
     <!-- City Whisperer -->
     <td align="center" valign="top" style="padding: 10px;">
       <img 
