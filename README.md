@@ -93,45 +93,60 @@
 #### 🖥️ Web Apps
 <table style="width: 100%; table-layout: fixed;">
   <tr>
+    <!-- Timecards Demo -->
     <td align="center" valign="top" style="padding: 10px;">
-      <strong>Timecards Demo — Production Web App</strong><br/><br/>
+      <img 
+        src="./assets/TimeCardApp.png"
+        alt="Timecards Demo Web App"
+        style="width:100%; max-width:500px; height:auto;"
+      /><br/>
+      <strong>Timecards Demo — Production Web App</strong>
+      <br/>
+      <div style="font-size: 0.9em; color: #aaa;">
+        Modeled and aggregated payroll time-series data to generate biweekly KPIs and export clean CSV reports for downstream payroll systems.
+      </div>
+      <br/>
+      <em style="font-size: 0.9em;">
+        SQL | PostgreSQL (Neon) | Data Modeling | Aggregations | Reporting
+      </em>
+      <br/><br/>
       <a href="https://wcac-timecards-demo.netlify.app/" target="_blank">
-        <img src="./assets/TimeCardApp.png"
-             alt="Timecards Demo" style="width:100%; max-width:500px; height:auto;" /><br/>
-        wcac-timecards-demo.netlify.app
+        Live App
       </a>
-      <br/><br/>
-      <em style="font-size: 0.9em;">
-        SQL | PostgreSQL (Neon) | Data Modeling | Aggregations | Reporting:<br/>
-        Payroll Data | Time-Series Data | CSV Exports | KPI Calculation:<br/>
-        Business Metrics | Data Validation
-      </em>
-      <br/><br/>
-      <span style="font-size: 0.9em;">
-        Modeled and aggregated payroll time-series data to generate biweekly KPIs
-        and export clean CSV reports for downstream payroll systems.
-      </span>
+      &nbsp;|&nbsp;
+      <a href="https://github.com/MarkRobertson67/wcac_timecards_demo_frontend" target="_blank">
+        GitHub Repo
+      </a>
     </td>
+
+    <!-- City Whisperer -->
     <td align="center" valign="top" style="padding: 10px;">
-      <strong>City Whisperer</strong><br/><br/>
-      <a href="https://citywhisperer-mark.netlify.app/" target="_blank">
-        <img src="./assets/CityWhispererApp.png"
-             alt="City Whisperer" style="width:100%; max-width:500px; height:auto;" /><br/>
-        citywhisperer-mark.netlify.app
-      </a>
-      <br/><br/>
+      <img 
+        src="./assets/CityWhispererApp.png"
+        alt="City Whisperer Web App"
+        style="width:100%; max-width:500px; height:auto;"
+      /><br/>
+      <strong>City Whisperer</strong>
+      <br/>
+      <div style="font-size: 0.9em; color: #aaa;">
+        Ingested and transformed multi-source API data to generate personalized walking tours using AI-generated content and geospatial logic.
+      </div>
+      <br/>
       <em style="font-size: 0.9em;">
-        SQL | PostgreSQL | API Data Ingestion | Data Processing | Feature Engineering:<br/>
-        OpenAI API | Google Maps API | Data Pipelines | Data Visualization
+        SQL | PostgreSQL | OpenAI API | Google Maps API | Data Pipelines
       </em>
       <br/><br/>
-      <span style="font-size: 0.9em;">
-        Ingested and transformed multi-source API data to generate personalized,
-        insight-driven walking tours with AI-generated content and geospatial logic.
-      </span>
+      <a href="https://citywhisperer-mark.netlify.app/" target="_blank">
+        Live App
+      </a>
+      &nbsp;|&nbsp;
+      <a href="https://github.com/MarkRobertson67/9-4-capstone-team-6-my-version" target="_blank">
+        GitHub Repo
+      </a>
     </td>
   </tr>
 </table>
+
 
 
 ---
