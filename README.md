@@ -52,7 +52,7 @@
   <tr>
     <td align="center">
       <a href="https://public.tableau.com/views/SalesLeadFunnelStageDistribution/Dashboard1?:showVizHome=no&:toolbar=no&:tabs=no"_blank">
-        <img src=".assets/dashboard_funnel_overview.png"
+        <img src="./assets/dashboard_funnel_overview.png"
              alt="Sales Lead Funnel Analysis Dashboard" width="500" /><br/>
         <strong>Sales Lead Funnel Analysis</strong><br/>
         Analyzed a sales leads dataset to measure funnel conversion rates and identify drop-off points using SQL. Validated results in Excel and built an interactive Tableau dashboard to surface actionable sales insights.
