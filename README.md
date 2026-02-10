@@ -370,7 +370,3 @@ and devicon</p>
 🏎️ Off the clock, I’m a Formula 1 fanatic, world traveler, foodie, and movie buff.
 
 ---
-
-![Mark’s GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkRobertson67&show_icons=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkRobertson67&layout=donut&show_icons=true&theme=blue-green)
-</p>
