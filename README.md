@@ -44,8 +44,8 @@
       <strong>Portfolio</strong>
       <br/>
       <div style="font-size: 0.9em; color: #aaa;">
-        Central hub showcasing data analytics projects, dashboards, and full-stack web apps.
-      </div>
+  Central hub for data analytics projects, dashboards, and full-stack web apps, with resume, contact information, and references available.
+</div>
       <br/>
       <a href="https://markrobertson67.github.io/" target="_blank">
         Live Site
