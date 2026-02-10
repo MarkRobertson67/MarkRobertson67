@@ -37,7 +37,7 @@
   <tr>
     <td align="center">
       <a href="https://markrobertson67.github.io/" target="_blank">
-        <img src="./assets/Portfolio.png"
+        <img src="./assets/Portfolio1.png"
              alt="Portfolio" width="500" /><br/>
         <strong>Portfolio</strong><br/>
         markrobertson67.github.io
