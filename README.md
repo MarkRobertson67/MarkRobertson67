@@ -45,12 +45,17 @@
         <strong>Portfolio Website</strong>
       </a>
       <br/>
-      <a href="https://markrobertson67.github.io/" target="_blank">
-        markrobertson67.github.io
+      🌐 <a href="https://markrobertson67.github.io/" target="_blank">
+        Live Site
+      </a>
+      &nbsp;|&nbsp;
+      💻 <a href="https://github.com/MarkRobertson67/MarkRobertson67" target="_blank">
+        GitHub Repo
       </a>
     </td>
   </tr>
 </table>
+
 
 
 #### 📊 Data Analysis Projects
