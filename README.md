@@ -67,15 +67,28 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://public.tableau.com/views/SalesLeadFunnelStageDistribution/Dashboard1?:showVizHome=no&:toolbar=no&:tabs=no"_blank">
-        <img src="./assets/dashboard_funnel_overview.png"
-             alt="Sales Lead Funnel Analysis Dashboard" width="500" /><br/>
-             <strong>Sales Lead Funnel Analysis</strong><br/>
+      <img 
+        src="./assets/dashboard_funnel_overview.png"
+        alt="Sales Lead Funnel Analysis Tableau Dashboard"
+        width="500"
+      /><br/>
+      <strong>Sales Lead Funnel Analysis</strong>
+      <br/>
+      <div style="font-size: 0.9em; color: #aaa;">
+        Analyzed a sales leads dataset to measure funnel conversion rates and identify drop-off points using SQL, validated results in Excel, and built an interactive Tableau dashboard to surface actionable sales insights.
+      </div>
+      <br/>
+      <a href="https://public.tableau.com/views/SalesLeadFunnelStageDistribution/Dashboard1?:showVizHome=no&:toolbar=no&:tabs=no" target="_blank">
+        Live Dashboard
       </a>
-        Analyzed a sales leads dataset to measure funnel conversion rates and identify drop-off points using SQL. Validated results in Excel and built an interactive Tableau dashboard to surface actionable sales insights.
+      &nbsp;|&nbsp;
+      <a href="https://github.com/MarkRobertson67/sales_lead_funnel_analysis" target="_blank">
+        GitHub Repo
+      </a>
     </td>
   </tr>
 </table>
+
 
 #### 🖥️ Web Apps
 <table style="width: 100%; table-layout: fixed;">
