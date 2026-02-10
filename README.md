@@ -39,22 +39,23 @@
       <a href="https://markrobertson67.github.io/" target="_blank">
         <img 
           src="./assets/Portfolio1.png"
-          alt="Mark Robertson Portfolio Website"
+          alt="Mark Robertson Portfolio Live Site"
           width="500"
         /><br/>
-        <strong>Portfolio Website</strong>
+        <strong>Portfolio</strong>
       </a>
       <br/>
-      🌐 <a href="https://markrobertson67.github.io/" target="_blank">
+      <a href="https://markrobertson67.github.io/" target="_blank">
         Live Site
       </a>
       &nbsp;|&nbsp;
-      💻 <a href="https://github.com/MarkRobertson67/MarkRobertson67" target="_blank">
+      <a href="https://github.com/MarkRobertson67/MarkRobertson67" target="_blank">
         GitHub Repo
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
