@@ -36,14 +36,16 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://markrobertson67.github.io/" target="_blank">
-        <img 
-          src="./assets/Portfolio1.png"
-          alt="Mark Robertson Portfolio Live Site"
-          width="500"
-        /><br/>
-        <strong>Portfolio</strong>
-      </a>
+      <img 
+        src="./assets/Portfolio1.png"
+        alt="Mark Robertson Portfolio"
+        width="500"
+      /><br/>
+      <strong>Portfolio</strong>
+      <br/>
+      <div style="font-size: 0.9em; color: #aaa;">
+        Central hub showcasing data analytics projects, dashboards, and full-stack web apps.
+      </div>
       <br/>
       <a href="https://markrobertson67.github.io/" target="_blank">
         Live Site
@@ -55,6 +57,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
