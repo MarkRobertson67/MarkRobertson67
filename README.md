@@ -59,15 +59,16 @@
 
 
 
-#### 📊 Data Analysis Projects
+#### 📊 Data Analytics Projects
 
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td align="center">
+    <!-- Sales Lead Funnel Analysis -->
+    <td align="center" valign="top" style="padding: 10px;">
       <img 
         src="./assets/dashboard_funnel_overview.png"
         alt="Sales Lead Funnel Analysis Tableau Dashboard"
-        width="500"
+        style="width:100%; max-width:500px; height:auto;"
       /><br/>
       <strong>Sales Lead Funnel Analysis</strong>
       <br/>
@@ -75,6 +76,10 @@
         Analyzed a sales leads dataset to measure funnel conversion rates and identify drop-off points using SQL, validated results in Excel, and built an interactive Tableau dashboard to surface actionable sales insights.
       </div>
       <br/>
+      <em style="font-size: 0.9em;">
+        SQL | Tableau | Excel | Data Cleaning | Funnel Analytics
+      </em>
+      <br/><br/>
       <a href="https://public.tableau.com/views/SalesLeadFunnelStageDistribution/Dashboard1?:showVizHome=no&:toolbar=no&:tabs=no" target="_blank">
         Live Dashboard
       </a>
@@ -83,6 +88,32 @@
         GitHub Repo
       </a>
     </td>
+    <!-- Customer Purchase Behavior Analysis -->
+    <td align="center" valign="top" style="padding: 10px;">
+      <img 
+        src="./assets/customer_behavior_dashboard.png"
+        alt="Customer Purchase Behavior Power BI Dashboard"
+        style="width:100%; max-width:500px; height:auto;"
+      /><br/>
+      <strong>Customer Purchase Behavior Analysis</strong>
+      <br/>
+      <div style="font-size: 0.9em; color: #aaa;">
+        Cleaned a retail customer dataset using Python (Pandas), analyzed purchasing behavior with SQL, and built a Power BI dashboard exploring revenue patterns, discount usage, and customer segmentation insights.
+      </div>
+      <br/>
+      <em style="font-size: 0.9em;">
+        Python | Pandas | SQL | Power BI | Customer Analytics
+      </em>
+      <br/><br/>
+      <a href="YOUR_POWERBI_LINK_HERE" target="_blank">
+        Dashboard
+      </a>
+      &nbsp;|&nbsp;
+      <a href="https://github.com/MarkRobertson67/Customer_Behavior_Analysis" target="_blank">
+        GitHub Repo
+      </a>
+    </td>
+
   </tr>
 </table>
 
