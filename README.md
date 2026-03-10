@@ -1,4 +1,3 @@
-
 ## 👋 Hi, I'm Mark Robertson 🇺🇸🇬🇧
 
 📊 **Data Analyst with a finance background**, focused on turning raw data into clear, actionable insights.
@@ -15,7 +14,7 @@
 
 • SQL (PostgreSQL, MySQL)  
 • Python (pandas, numpy, matplotlib, seaborn)  
-• Tableau (Dashboards & Reporting)  
+• Tableau, PowerBi (Dashboards & Reporting)  
 • Excel (PivotTables, VLOOKUP)  
 • Data Cleaning & Validation
 
@@ -30,6 +29,7 @@
 ### 🌐 My Sites
 
 #### 📁 Portfolio
+
 <table>
   <tr>
     <td align="center">
@@ -54,10 +54,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
 
 #### 📊 Data Analytics Projects
 
@@ -105,9 +101,9 @@
         Python | Pandas | SQL | Power BI | Customer Analytics
       </em>
       <br/><br/>
-      <a href="YOUR_POWERBI_LINK_HERE" target="_blank">
-        Dashboard
-      </a>
+      <a href="https://github.com/MarkRobertson67/YOUR_REPO_NAME/blob/main/assets/customer_behavior_dashboard.pbix" target="_blank">
+  Download Power BI File
+</a>
       &nbsp;|&nbsp;
       <a href="https://github.com/MarkRobertson67/Customer_Behavior_Analysis" target="_blank">
         GitHub Repo
@@ -117,8 +113,8 @@
   </tr>
 </table>
 
-
 #### 🖥️ Web Apps
+
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <!-- Timecards Demo -->
@@ -174,10 +170,7 @@
   </tr>
 </table>
 
-
-
 ---
-
 
 ### 📫 How to reach me:
 
@@ -185,52 +178,57 @@
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:MarkRobertson67@gmail.com)
 
 ---
+
 ### Profiles:
 
 - Codewars: [![Codewars Badge](https://www.codewars.com/users/Goldsuccess167/badges/small)](https://www.codewars.com/users/Goldsuccess167)
 - Leetcode: <a href="https://leetcode.com/Goldsuccess167/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" width="100" alt="Leetcode Badge"></a>
 
 ---
+
 ## 🎓 Education & Awards
 
 - **Advanced Software Engineering Immersive Program**, Pursuit.org<br/>
-    – JavaScript, SQL, APIs, full-stack application development, data-driven projects 
+  – JavaScript, SQL, APIs, full-stack application development, data-driven projects
 - **The Wall Street Quants**, Quantitative Finance & Machine Learning (In Progress)<br/>
-   – Time-series analysis, factor models, backtesting, and statistical arbitrage
+  – Time-series analysis, factor models, backtesting, and statistical arbitrage
 - **BS in Marketing**, Rutgers, The State University of New Jersey – School of Business
-- **BA in Applied Art**, University of Hertfordshire, UK  
+- **BA in Applied Art**, University of Hertfordshire, UK
 
-## 🏆 Awards  
-- **Award:** Best Storytelling, Pursuit Hackathon (Class of 9.3 & 9.4) — *accessandlearn.netlify.app*
+## 🏆 Awards
+
+- **Award:** Best Storytelling, Pursuit Hackathon (Class of 9.3 & 9.4) — _accessandlearn.netlify.app_
 
 ---
+
 ## 💼 Professional Experience
 
 - **Software Developer & Part-Time Driver**, We Care Adult Care, Inc.  
-  *June 2023 – Feb 2025*  
-  - Developed and deployed a full-stack timecard application, improving data collection accuracy and operational efficiency.  
+  _June 2023 – Feb 2025_
+  - Developed and deployed a full-stack timecard application, improving data collection accuracy and operational efficiency.
   - Engineered SQL database and automated dashboards to analyze staff time, payroll, and productivity metrics.
   - Performed data cleaning and visualization to support management decision-making.
 
 - **Founder & Principal**, St. Albans Capital, LLC  
-  *Mar 1996 – Dec 2022*  
+  _Mar 1996 – Dec 2022_
   - Analyzed large financial datasets to identify market inefficiencies and optimize trading strategies.
-  - Utilized Bloomberg Terminal to analyze market inefficiencies, price discrepancies, and liquidity trends, optimizing trading decisions.  
+  - Utilized Bloomberg Terminal to analyze market inefficiencies, price discrepancies, and liquidity trends, optimizing trading decisions.
   - Delivered transparent market reports to high-net-worth clients, ensuring trust through strategic insights and clear communication.
 
 - **CEO**, Phaz Music Corp. (Best of CES 2015 by Techlicious)  
-  *Jun 2017 – Aug 2018*  
-  - Raised \$5 M in seed financing with a CPA-authored offering memorandum.  
-  - Oversaw product development, finalizing manufacturing in Shenzhen and lithium-battery configuration in Hong Kong.  
+  _Jun 2017 – Aug 2018_
+  - Raised \$5 M in seed financing with a CPA-authored offering memorandum.
+  - Oversaw product development, finalizing manufacturing in Shenzhen and lithium-battery configuration in Hong Kong.
   - Negotiated distribution and sales-team agreements, forging critical partnerships to bring P2 headphones to market.
 
 - **Managing Member**, Investment Club 101, LLC (“Black Box Trading”)  
-  *Feb 2006 – Jul 2012*  
-  - Co-founded a team to build and fund a black-box equity-trading system with a core AI engine.  
-  - Secured \$100 K in seed capital for live beta trading, hosted on Genesis Securities.  
+  _Feb 2006 – Jul 2012_
+  - Co-founded a team to build and fund a black-box equity-trading system with a core AI engine.
+  - Secured \$100 K in seed capital for live beta trading, hosted on Genesis Securities.
   - Launched and managed the beta system, driving early proof-of-concept success.
 
 ---
+
 ### 🛠 Languages and Tools :
 
 <div align="left">
@@ -392,6 +390,15 @@
   </a>
 </div>
 
+  <!-- 7. Data Visualization -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/powerbi/F2C811"
+      alt="Power BI" title="Power BI"
+      width="40" height="40"
+      style="margin-right:8px;"
+    />
+  </a>
 
 <p><a target="_blank" href="https://icons8.com"></a> Icons by <a target="_blank" href="https://icons8.com">Icons8</a>
 and devicon</p>
