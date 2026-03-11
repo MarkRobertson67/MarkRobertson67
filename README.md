@@ -101,9 +101,9 @@
         Python | Pandas | SQL | Power BI | Customer Analytics
       </em>
       <br/><br/>
-      <a href="https://github.com/MarkRobertson67/YOUR_REPO_NAME/blob/main/assets/customer_behavior_dashboard.pbix" target="_blank">
-  Download Power BI File
-</a>
+      <a href="https://github.com/MarkRobertson67/Customer_Behavior_Analysis/blob/main/assets/customer_behavior_dashboard.pbix" target="_blank">
+      Download Dashboard (.pbix)
+      </a>
       &nbsp;|&nbsp;
       <a href="https://github.com/MarkRobertson67/Customer_Behavior_Analysis" target="_blank">
         GitHub Repo
