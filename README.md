@@ -61,11 +61,13 @@
   <tr>
     <!-- Sales Lead Funnel Analysis -->
     <td align="center" valign="top" style="padding: 10px;">
-      <img 
-        src="./assets/dashboard_funnel_overview.png"
-        alt="Sales Lead Funnel Analysis Tableau Dashboard"
-        style="width:100%; max-width:500px; height:auto;"
-      /><br/>
+      <a href="https://public.tableau.com/views/SalesLeadFunnelStageDistribution/Dashboard1?:showVizHome=no&:toolbar=no&:tabs=no" target="_blank">
+  <img 
+    src="./assets/dashboard_funnel_overview.png"
+    alt="Sales Lead Funnel Analysis Tableau Dashboard"
+    style="width:100%; max-width:500px; height:auto;"
+  />
+</a><br/>
       <strong>Sales Lead Funnel Analysis</strong>
       <br/>
       <div style="font-size: 0.9em; color: #aaa;">
