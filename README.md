@@ -85,14 +85,18 @@
       </a>
     </td>
     <!-- Customer Purchase Behavior Analysis -->
-    <td align="center" valign="top" style="padding: 10px;">
-      <img 
-        src="./assets/customer_behavior_dashboard.png"
-        alt="Customer Purchase Behavior Power BI Dashboard"
-        style="width:100%; max-width:500px; height:auto;"
-      /><br/>
-      <strong>Customer Purchase Behavior Analysis</strong>
-      <br/>
+<td align="center" valign="top" style="padding: 10px;">
+  
+  <a href="https://github.com/MarkRobertson67/Customer_Behavior_Analysis/blob/main/dashboard/customer_behavior_dashboard.pbix" target="_blank">
+    <img 
+      src="./assets/customer_behavior_dashboard.png"
+      alt="Customer Purchase Behavior Power BI Dashboard"
+      style="width:100%; max-width:500px; height:auto;"
+    />
+  </a><br/>
+
+  <strong>Customer Purchase Behavior Analysis</strong>
+  <br/>
       <div style="font-size: 0.9em; color: #aaa;">
         Cleaned a retail customer dataset using Python (Pandas), analyzed purchasing behavior with SQL, and built a Power BI dashboard exploring revenue patterns, discount usage, and customer segmentation insights.
       </div>
@@ -101,7 +105,7 @@
         Python | Pandas | SQL | Power BI | Customer Analytics
       </em>
       <br/><br/>
-      <a href="https://github.com/MarkRobertson67/Customer_Behavior_Analysis/blob/main/assets/customer_behavior_dashboard.pbix" target="_blank">
+      <a href="https://github.com/MarkRobertson67/Customer_Behavior_Analysis/blob/main/dashboard/customer_behavior_dashboard.pbix" target="_blank">
       Download Dashboard (.pbix)
       </a>
       &nbsp;|&nbsp;
