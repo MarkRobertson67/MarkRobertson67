@@ -36,7 +36,7 @@
 
 <a href="https://markrobertson67.github.io/" target="_blank" rel="noopener noreferrer">
 <img 
-  src="./assets/Portfolio1.png"
+  src="./assets/customer_behavior_dashboard.png"
   alt="Mark Robertson Portfolio"
   width="500"
 />
