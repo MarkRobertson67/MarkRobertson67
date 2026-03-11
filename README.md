@@ -30,150 +30,214 @@
 
 #### 📁 Portfolio
 
-<table>
-  <tr>
-    <td align="center">
-      <img 
-        src="./assets/Portfolio1.png"
-        alt="Mark Robertson Portfolio"
-        width="500"
-      /><br/>
-      <strong>Portfolio</strong>
-      <br/>
-      <div style="font-size: 0.9em; color: #aaa;">
-  Central hub for data analytics projects, dashboards, and full-stack web apps, with resume, contact information, and references available.
+<table style="width:100%;">
+<tr>
+<td align="center">
+
+<a href="https://markrobertson67.github.io/" target="_blank" rel="noopener noreferrer">
+<img 
+  src="./assets/Portfolio1.png"
+  alt="Mark Robertson Portfolio"
+  width="500"
+/>
+</a>
+<br/>
+
+<strong>Portfolio</strong>
+<br/>
+
+<div style="font-size:0.9em;color:#aaa;">
+Central hub for data analytics projects, dashboards, and full-stack web apps, with resume, contact information, and references available.
 </div>
-      <br/>
-      <a href="https://markrobertson67.github.io/" target="_blank">
-        Live Site
-      </a>
-      &nbsp;|&nbsp;
-      <a href="https://github.com/MarkRobertson67/MarkRobertson67" target="_blank">
-        GitHub Repo
-      </a>
-    </td>
-  </tr>
+
+<br/>
+
+<a href="https://markrobertson67.github.io/" target="_blank" rel="noopener noreferrer">
+Live Site
+</a>
+&nbsp;|&nbsp;
+<a href="https://github.com/MarkRobertson67/MarkRobertson67" target="_blank" rel="noopener noreferrer">
+GitHub Repo
+</a>
+
+</td>
+</tr>
 </table>
+
+
+---
 
 #### 📊 Data Analytics Projects
 
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <!-- Sales Lead Funnel Analysis -->
-    <td align="center" valign="top" style="padding: 10px;">
-      <a href="https://public.tableau.com/views/SalesLeadFunnelStageDistribution/Dashboard1?:showVizHome=no&:toolbar=no&:tabs=no" target="_blank">
-  <img 
-    src="./assets/dashboard_funnel_overview.png"
-    alt="Sales Lead Funnel Analysis Tableau Dashboard"
-    style="width:100%; max-width:500px; height:auto;"
-  />
-</a><br/>
-      <strong>Sales Lead Funnel Analysis</strong>
-      <br/>
-      <div style="font-size: 0.9em; color: #aaa;">
-        Analyzed a sales leads dataset to measure funnel conversion rates and identify drop-off points using SQL, validated results in Excel, and built an interactive Tableau dashboard to surface actionable sales insights.
-      </div>
-      <br/>
-      <em style="font-size: 0.9em;">
-        SQL | Tableau | Excel | Data Cleaning | Funnel Analytics
-      </em>
-      <br/><br/>
-      <a href="https://public.tableau.com/views/SalesLeadFunnelStageDistribution/Dashboard1?:showVizHome=no&:toolbar=no&:tabs=no" target="_blank">
-        Live Dashboard
-      </a>
-      &nbsp;|&nbsp;
-      <a href="https://github.com/MarkRobertson67/sales_lead_funnel_analysis" target="_blank">
-        GitHub Repo
-      </a>
-    </td>
-    <!-- Customer Purchase Behavior Analysis -->
-<td align="center" valign="top" style="padding: 10px;">
-  
-  <a href="https://github.com/MarkRobertson67/Customer_Behavior_Analysis/blob/main/dashboard/customer_behavior_dashboard.pbix" target="_blank">
-    <img 
-      src="./assets/customer_behavior_dashboard.png"
-      alt="Customer Purchase Behavior Power BI Dashboard"
-      style="width:100%; max-width:500px; height:auto;"
-    />
-  </a><br/>
+<table style="width:100%;table-layout:fixed;">
+<tr>
 
-  <strong>Customer Purchase Behavior Analysis</strong>
-  <br/>
-      <div style="font-size: 0.9em; color: #aaa;">
-        Cleaned a retail customer dataset using Python (Pandas), analyzed purchasing behavior with SQL, and built a Power BI dashboard exploring revenue patterns, discount usage, and customer segmentation insights.
-      </div>
-      <br/>
-      <em style="font-size: 0.9em;">
-        Python | Pandas | SQL | Power BI | Customer Analytics
-      </em>
-      <br/><br/>
-      <a href="https://github.com/MarkRobertson67/Customer_Behavior_Analysis/blob/main/dashboard/customer_behavior_dashboard.pbix" target="_blank">
-      Download Dashboard (.pbix)
-      </a>
-      &nbsp;|&nbsp;
-      <a href="https://github.com/MarkRobertson67/Customer_Behavior_Analysis" target="_blank">
-        GitHub Repo
-      </a>
-    </td>
+<!-- Sales Lead Funnel Analysis -->
+<td align="center" valign="top" style="padding:12px;">
 
-  </tr>
+<a href="https://public.tableau.com/views/SalesLeadFunnelStageDistribution/Dashboard1?:showVizHome=no&:toolbar=no&:tabs=no" target="_blank" rel="noopener noreferrer">
+<img 
+  src="./assets/dashboard_funnel_overview.png"
+  alt="Sales Lead Funnel Analysis Tableau Dashboard"
+  style="width:100%;max-width:500px;height:auto;"
+/>
+</a>
+
+<br/>
+
+<strong>Sales Lead Funnel Analysis</strong>
+<br/>
+
+<div style="font-size:0.9em;color:#aaa;">
+Analyzed a sales leads dataset to measure funnel conversion rates and identify drop-off points using SQL, validated results in Excel, and built an interactive Tableau dashboard to surface actionable sales insights.
+</div>
+
+<br/>
+
+<em style="font-size:0.9em;">
+SQL | Tableau | Excel | Data Cleaning | Funnel Analytics
+</em>
+
+<br/><br/>
+
+<a href="https://public.tableau.com/views/SalesLeadFunnelStageDistribution/Dashboard1?:showVizHome=no&:toolbar=no&:tabs=no" target="_blank" rel="noopener noreferrer">
+Live Dashboard
+</a>
+&nbsp;|&nbsp;
+<a href="https://github.com/MarkRobertson67/sales_lead_funnel_analysis" target="_blank" rel="noopener noreferrer">
+GitHub Repo
+</a>
+
+</td>
+
+
+<!-- Customer Purchase Behavior Analysis -->
+<td align="center" valign="top" style="padding:12px;">
+
+<a href="https://github.com/MarkRobertson67/Customer_Behavior_Analysis/blob/main/dashboard/customer_behavior_dashboard.pbix" target="_blank" rel="noopener noreferrer">
+<img 
+  src="./assets/customer_behavior_dashboard.png"
+  alt="Customer Purchase Behavior Power BI Dashboard"
+  style="width:100%;max-width:500px;height:auto;"
+/>
+</a>
+
+<br/>
+
+<strong>Customer Purchase Behavior Analysis</strong>
+<br/>
+
+<div style="font-size:0.9em;color:#aaa;">
+Cleaned a retail customer dataset using Python (Pandas), analyzed purchasing behavior with SQL, and built a Power BI dashboard exploring revenue patterns, discount usage, and customer segmentation insights.
+</div>
+
+<br/>
+
+<em style="font-size:0.9em;">
+Python | Pandas | SQL | Power BI | Customer Analytics
+</em>
+
+<br/><br/>
+
+<a href="https://github.com/MarkRobertson67/Customer_Behavior_Analysis/blob/main/dashboard/customer_behavior_dashboard.pbix" target="_blank" rel="noopener noreferrer">
+Download Dashboard (.pbix)
+</a>
+&nbsp;|&nbsp;
+<a href="https://github.com/MarkRobertson67/Customer_Behavior_Analysis" target="_blank" rel="noopener noreferrer">
+GitHub Repo
+</a>
+
+</td>
+
+</tr>
 </table>
+
+
+---
 
 #### 🖥️ Web Apps
 
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <!-- Timecards Demo -->
-    <td align="center" valign="top" style="padding: 10px;">
-      <img 
-        src="./assets/TimeCardApp.png"
-        alt="Timecards Demo Web App"
-        style="width:100%; max-width:500px; height:auto;"
-      /><br/>
-      <strong>Timecards Demo — Production Web App</strong>
-      <br/>
-      <div style="font-size: 0.9em; color: #aaa;">
-        Modeled and aggregated payroll time-series data to generate biweekly KPIs and export clean CSV reports for downstream payroll systems.
-      </div>
-      <br/>
-      <em style="font-size: 0.9em;">
-        SQL | PostgreSQL (Neon) | Data Modeling | Aggregations | Reporting
-      </em>
-      <br/><br/>
-      <a href="https://wcac-timecards-demo.netlify.app/" target="_blank">
-        Live App
-      </a>
-      &nbsp;|&nbsp;
-      <a href="https://github.com/MarkRobertson67/wcac_timecards_demo_frontend" target="_blank">
-        GitHub Repo
-      </a>
-    </td>
-    <!-- City Whisperer -->
-    <td align="center" valign="top" style="padding: 10px;">
-      <img 
-        src="./assets/CityWhispererApp.png"
-        alt="City Whisperer Web App"
-        style="width:100%; max-width:500px; height:auto;"
-      /><br/>
-      <strong>City Whisperer</strong>
-      <br/>
-      <div style="font-size: 0.9em; color: #aaa;">
-        Ingested and transformed multi-source API data to generate personalized walking tours using AI-generated content and geospatial logic.
-      </div>
-      <br/>
-      <em style="font-size: 0.9em;">
-        SQL | PostgreSQL | OpenAI API | Google Maps API | Data Pipelines
-      </em>
-      <br/><br/>
-      <a href="https://citywhisperer-mark.netlify.app/" target="_blank">
-        Live App
-      </a>
-      &nbsp;|&nbsp;
-      <a href="https://github.com/MarkRobertson67/9-4-capstone-team-6-my-version" target="_blank">
-        GitHub Repo
-      </a>
-    </td>
-  </tr>
+<table style="width:100%;table-layout:fixed;">
+<tr>
+
+<!-- Timecards Demo -->
+<td align="center" valign="top" style="padding:12px;">
+
+<a href="https://wcac-timecards-demo.netlify.app/" target="_blank" rel="noopener noreferrer">
+<img 
+  src="./assets/TimeCardApp.png"
+  alt="Timecards Demo Web App"
+  style="width:100%;max-width:500px;height:auto;"
+/>
+</a>
+
+<br/>
+
+<strong>Timecards Demo — Production Web App</strong>
+<br/>
+
+<div style="font-size:0.9em;color:#aaa;">
+Modeled and aggregated payroll time-series data to generate biweekly KPIs and export clean CSV reports for downstream payroll systems.
+</div>
+
+<br/>
+
+<em style="font-size:0.9em;">
+SQL | PostgreSQL (Neon) | Data Modeling | Aggregations | Reporting
+</em>
+
+<br/><br/>
+
+<a href="https://wcac-timecards-demo.netlify.app/" target="_blank" rel="noopener noreferrer">
+Live App
+</a>
+&nbsp;|&nbsp;
+<a href="https://github.com/MarkRobertson67/wcac_timecards_demo_frontend" target="_blank" rel="noopener noreferrer">
+GitHub Repo
+</a>
+
+</td>
+
+
+<!-- City Whisperer -->
+<td align="center" valign="top" style="padding:12px;">
+
+<a href="https://citywhisperer-mark.netlify.app/" target="_blank" rel="noopener noreferrer">
+<img 
+  src="./assets/CityWhispererApp.png"
+  alt="City Whisperer Web App"
+  style="width:100%;max-width:500px;height:auto;"
+/>
+</a>
+
+<br/>
+
+<strong>City Whisperer</strong>
+<br/>
+
+<div style="font-size:0.9em;color:#aaa;">
+Ingested and transformed multi-source API data to generate personalized walking tours using AI-generated content and geospatial logic.
+</div>
+
+<br/>
+
+<em style="font-size:0.9em;">
+SQL | PostgreSQL | OpenAI API | Google Maps API | Data Pipelines
+</em>
+
+<br/><br/>
+
+<a href="https://citywhisperer-mark.netlify.app/" target="_blank" rel="noopener noreferrer">
+Live App
+</a>
+&nbsp;|&nbsp;
+<a href="https://github.com/MarkRobertson67/9-4-capstone-team-6-my-version" target="_blank" rel="noopener noreferrer">
+GitHub Repo
+</a>
+
+</td>
+
+</tr>
 </table>
 
 ---
