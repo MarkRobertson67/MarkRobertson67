@@ -1,7 +1,7 @@
 
 <h2>
 👋 Hi, I'm Mark Robertson 🇺🇸🇬🇧
-<img src="https://komarev.com/ghpvc/?username=MarkRobertson67&color=ff7f0e&style=for-the-badge" align="right" />
+<img src="https://komarev.com/ghpvc/?username=MarkRobertson67&color=0e75b6&style=for-the-badge" align="right" />
 </h2>
 
 📊 **Data Analyst with a finance background**, focused on turning raw data into clear, actionable insights.
