@@ -1,4 +1,8 @@
-## 👋 Hi, I'm Mark Robertson 🇺🇸🇬🇧
+
+<h2>
+👋 Hi, I'm Mark Robertson 🇺🇸🇬🇧
+<img src="https://komarev.com/ghpvc/?username=MarkRobertson67&color=blue" align="right" />
+</h2>
 
 📊 **Data Analyst with a finance background**, focused on turning raw data into clear, actionable insights.
 
